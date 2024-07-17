@@ -1,0 +1,7 @@
+Standname,Buchungstag,Standstatus,Kunde,Rechnungsnummer,"Standpreis in €",Standbreite,Standtiefe,Stromanschluss,Wasseranschluss,Imbiss,Getränke,Fahrgeschäft/e,Sortiment,"Notizen vom Kunden",Bezahlstatus
+"Teststraße 1, A1",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",178,20€,3m,3m,Nein,Nein,Nein,Nein,,,,"bezahlung ausstehend"
+"Teststraße 1, A1",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",178,20€,3m,3m,Nein,Nein,Nein,Nein,,,,"bezahlung ausstehend"
+"Teststraße 2, A2",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",180,50€,3m,2m,Ja,Ja,Ja,Ja,,"Bier und Pommes","Ich bin ein ganz schlimmer Finger.",bezahlt
+"Teststraße 2, A2",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",180,50€,3m,2m,Ja,Ja,Ja,Ja,,"Bier und Pommes","Ich bin ein ganz schlimmer Finger.",bezahlt
+"Teststraße 3, A3",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",180,50€,3m,2m,Ja,Ja,Ja,Ja,,"Bier und Pommes","Ich bin ein ganz schlimmer Finger.",bezahlt
+"Teststraße 3, A3",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",180,50€,3m,2m,Ja,Ja,Ja,Ja,,"Bier und Pommes","Ich bin ein ganz schlimmer Finger.",bezahlt

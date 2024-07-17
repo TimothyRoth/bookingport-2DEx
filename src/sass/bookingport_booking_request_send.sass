@@ -1,0 +1,30 @@
+.bookingport_booking_request_send
+  background: #fff
+  main
+    .wrapper
+      h1
+        hyphens: auto
+
+      ul
+        margin-top: 35px
+        padding: 50px 0 100px
+        display: flex
+        flex-direction: column
+        gap: 10px
+        list-style-type: none
+
+        li:not(.menu-item-logout)
+          padding: 14px 26px
+          color: #fff
+          background: linear-gradient(138deg, #d70000, #770101) no-repeat, #770101
+          border-radius: 30px
+          max-width: 500px
+          width: 100%
+
+          &:hover
+            @media (min-width: 900px)
+              background: linear-gradient(138deg, #770101, #d70000 ) no-repeat, #d70000
+
+          a
+            display: inline-block
+            width: 100%

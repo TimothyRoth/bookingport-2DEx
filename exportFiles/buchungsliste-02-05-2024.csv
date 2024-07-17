@@ -1,0 +1,1677 @@
+Standname,Buchungstag,Standstatus,Kunde,Rechnungsnummer,"Standpreis in €",Standbreite,Standtiefe,Stromanschluss,Wasseranschluss,Imbiss,Getränke,Fahrgeschäft/e,Sortiment,"Notizen vom Kunden",Bezahlstatus
+"Baumstraße 1",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",738,40€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 1",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",738,40€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße  3",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",781,40€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße  3",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",781,40€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 5",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",781,40€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 5",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",781,40€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 9",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 11",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",999,20€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 11",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",1032,83.25€,3.33m,13m,Ja,Ja,Ja,Ja,,alles,,Bezahlt
+"Baumstraße 13",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",1032,83.25€,3.33m,13m,Ja,Ja,Ja,Ja,,alles,,Bezahlt
+"Baumstraße 13",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",999,20€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 2",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",781,40€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 2",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",781,40€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 4",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",1080,222€,3m,3m,Nein,Nein,Nein,Nein,,2,,"Zahlung ausstehend"
+"Baumstraße 4",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",1080,222€,3m,3m,Nein,Nein,Nein,Nein,,2,,"Zahlung ausstehend"
+"Baumstraße 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 10",Samstag,Verkauft,"Tim Schlautmann (Gewerblich)",1032,166.5€,3.33m,13m,Ja,Ja,Ja,Ja,,alles,,Bezahlt
+"Baumstraße 10",Sonntag,Verkauft,"Tim Schlautmann (Gewerblich)",1032,166.5€,3.33m,13m,Ja,Ja,Ja,Ja,,alles,,Bezahlt
+"Dechaneistraße  1",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße  1",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 3",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 5",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 5",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 9",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 11",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 11",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 13",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 13",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 15",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 15",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 17",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 17",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 19",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 19",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 21",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 23",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 23",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 25",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 25",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 27",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 27",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 29",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 29",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 31",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 31",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 33",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 33",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 35",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 35",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 37",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 37",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 39",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 39",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 41",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 41",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 43",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 43",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 45",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 45",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 47",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 47",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 49",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 49",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 51",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 51",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 53",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 53",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 55",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 55",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 57",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 57",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 59",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 59",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 61",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 61",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 63",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 63",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 65",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 65",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 67",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 67",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 69",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 69",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 71",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 71",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 73",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 73",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 75",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 75",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 79",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 79",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 81",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 81",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 83",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 83",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 85",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 85",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 91",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 91",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 93",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 93",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 95",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 95",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 97",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 97",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 99",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 99",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 101",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 101",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 103",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 103",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 105",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 105",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 107",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 107",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 109",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 109",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 111",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 111",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 113",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 113",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 115",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 115",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 117",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 117",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 119",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 119",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 121",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 121",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 123",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 123",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 2",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 2",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 4",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 4",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 10",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 10",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 1",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 1",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 3",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 5",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 5",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 9",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 11",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 11",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 13",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 13",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 15",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 15",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 17",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 17",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 19",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 19",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 21",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 23",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 23",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 25",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 25",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 27",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 27",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 29",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 29",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 31",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 31",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 33",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 33",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 35",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 35",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 37",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 37",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 39",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 39",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 41",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 41",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 43",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 43",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 45",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 45",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 47",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 47",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 49",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 49",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 51",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 51",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 53",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 53",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 55",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 55",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 2",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 2",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 4",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 4",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 10",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 10",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 12",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 12",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 14",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 14",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 16",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 16",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 18",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 18",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 20",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 20",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 22",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 22",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 24",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 24",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 26",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 26",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 28",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 28",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 30",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 30",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 32",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 32",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 34",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 34",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 36",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 36",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 38",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 38",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 40",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 40",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 42",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 42",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 44",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 44",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 46",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 46",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 48",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 48",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 50",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 50",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 52",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 52",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 54",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 54",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 56",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 56",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße  1",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße  1",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 3",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 5",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 5",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 9",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 11",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 11",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 13",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 13",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 15",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 15",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 17",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 17",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 19",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 19",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 21",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 23",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 23",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 25",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 25",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 27",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 27",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 29",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 29",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 31",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 31",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 33",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 33",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 35",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 35",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 37",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 37",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 39",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 39",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 41",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 41",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 43",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 43",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 45",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 45",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 47",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 47",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 49",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 49",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 51",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 51",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 53",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 53",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 55",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 55",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 57",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 57",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 59",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 59",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 61",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 61",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 63",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 63",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 65",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 65",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 67",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 67",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 69",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 69",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 71",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 71",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 73",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 73",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 75",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 75",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 77",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 77",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 79",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 79",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 81",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 81",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 83",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 83",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 85",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 85",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 87",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 87",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 89",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 89",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 91",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 91",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 93",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 93",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 95",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 95",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 97",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 97",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 99",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 99",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 101",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 101",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 103",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 103",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 105",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 105",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 107",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 107",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 109",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 109",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 111",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 111",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 113",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 113",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 115",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 115",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 117",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 117",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 119",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 119",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 121",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 121",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 123",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 123",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 125",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 125",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 127",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 127",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 129",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 129",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 131",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 131",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 133",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 133",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 135",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 135",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 2",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 2",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 4",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 4",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 10",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 10",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 12",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 12",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 14",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 14",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 16",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 16",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 18",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 18",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 20",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 20",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 22",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 22",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 24",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 24",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 26",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 26",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 28",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 28",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 30",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 30",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 32",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 32",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 34",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 34",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 36",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 36",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 38",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 38",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 40",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 40",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 42",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 42",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 44",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 44",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 46",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 46",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 48",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 48",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 50",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 50",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 52",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 52",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 54",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 54",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 56",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 56",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 58",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 58",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 60",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 60",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 62",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 62",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 64",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 64",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 66",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 66",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 68",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 68",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 70",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 70",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 72",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 72",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 74",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 74",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 76",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 76",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 78",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 78",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 80",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 80",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 82",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 82",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 84",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 84",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 86",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 86",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 88",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 88",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 90",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 90",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 92",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 92",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 94",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 94",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 96",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 96",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 98",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 98",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 100",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 100",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 102",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 102",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 104",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 104",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 106",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 106",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 108",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 108",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 110",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 110",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 112",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 112",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 114",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 114",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 116",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 116",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 118",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 118",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 120",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 120",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 122",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 122",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 124",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 124",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 126",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 126",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 128",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 128",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 130",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 130",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 132",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 132",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 134",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 134",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 136",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 136",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße  1",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße  1",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 3",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 5",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 5",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 9",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 11",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 11",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 13",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 13",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 15",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 15",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 17",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 17",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 19",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 19",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 21",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 23",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 23",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 2",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 2",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 4",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 4",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 10",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 10",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 12",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 12",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 14",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 14",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 16",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 16",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 18",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 18",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 20",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 20",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 22",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 22",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 24",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 24",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 26",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 26",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 28",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 28",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 30",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 30",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 32",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 32",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 34",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 34",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 36",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 36",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 38",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 38",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg  1",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg  1",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 3",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 5",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 5",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 9",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 11",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 11",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 13",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 13",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 15",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 15",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 17",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 17",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 19",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 19",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 21",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 23",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 23",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 25",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 25",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 27",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 27",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 29",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 29",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 31",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 31",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 33",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 33",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 35",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 35",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 37",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 37",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 39",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 39",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 41",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 41",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 43",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 43",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 45",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 45",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 47",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 47",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 49",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 49",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 51",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 51",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 53",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 53",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 55",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 55",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 57",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 57",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 5951.9244977950676, 7.968441980465142",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 5951.9244977950676, 7.968441980465142",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 61",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 61",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 63",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 63",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 65",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 65",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 67",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 67",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 69",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 69",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 71",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 71",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 73",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 73",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 75",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 75",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 77",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 77",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 79",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 79",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 2",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 2",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 4",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 4",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 10",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 10",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 12",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 12",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 14",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 14",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 16",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 16",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 18",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 18",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 20",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 20",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 22",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 22",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 24",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 24",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 26",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 26",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 28",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 28",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 30",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 30",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 32",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 32",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 34",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 34",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 36",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 36",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 38",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 38",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 40",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 40",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 42",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 42",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 44",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 44",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 46",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 46",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 48",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 48",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 50",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 50",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 52",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 52",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 54",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 54",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 56",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 56",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 58",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 58",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 60",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 60",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 62",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 62",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 64",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 64",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 66",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 66",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 68",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 68",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 70",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 70",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 1",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 1",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 3",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 5",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 5",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 9",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 11",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 11",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 13",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 13",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 15",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 15",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 17",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 17",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 19",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 19",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 21",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 23",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 23",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 25",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 25",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 27",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 27",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 29",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 29",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 31",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 31",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 33",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 33",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 35",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 35",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 37",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 37",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 39",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 39",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 41",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 41",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 43",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 43",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 45",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 45",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 47",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 47",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 49",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 49",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 51",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 51",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 53",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 53",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 55",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 55",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 57",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 57",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 59",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 59",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 61",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 61",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 63",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 63",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 65",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 65",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 67",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 67",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 69",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 69",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 71",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 71",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 73",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 73",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 75",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 75",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 77",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 77",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 79",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 79",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 81",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 81",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 83",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 83",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 85",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 85",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 87",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 87",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 89",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 89",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 91",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 91",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 93",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 93",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 95",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 95",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 97",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 97",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 99",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 99",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 101",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 101",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 103",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 103",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 105",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 105",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 107",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 107",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 109",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 109",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 111",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 111",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 113",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 113",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 115",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 115",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 117",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 117",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 119",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 119",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 121",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 121",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 123",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 123",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 125",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 125",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 127",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 127",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 129",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 129",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 131",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 131",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 133",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 133",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 135",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 135",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 137",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 137",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 139",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 139",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 141",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 141",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 143",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 143",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 145",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 145",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 147",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 147",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 149",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 149",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 151",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 151",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 153",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 153",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 155",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 155",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 157",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 157",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 159",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 159",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 161",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 161",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 163",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 163",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 165",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 165",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 167",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 167",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 169",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 169",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 171",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 171",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 173",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 173",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 175",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 175",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 177",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 177",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 179",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 179",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 181",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 181",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 183",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 183",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 185",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 185",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 187",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 187",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 189",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 189",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 191",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 191",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 193",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 193",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 195",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 195",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 197",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 197",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 199",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 199",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 201",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 201",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 203",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 203",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 205",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 205",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 207",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 207",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 209",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 209",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 211",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 211",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 213",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 213",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 215",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 215",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 217",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 217",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 219",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 219",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 221",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 221",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 223",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 223",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 225",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 225",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 227",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 227",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 229",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 229",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 231",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 231",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 233",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 233",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 235",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 235",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 237",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 237",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 239",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 239",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 241",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 241",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 243",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 243",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 245",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 245",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 2",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 2",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 4",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 4",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 10",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 10",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 12",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 12",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 14",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 14",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 16",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 16",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 18",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 18",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 20",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 20",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 22",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 22",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 24",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 24",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 26",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 26",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 28",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 28",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 30",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 30",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 32",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 32",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 34",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 34",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 36",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 36",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 38",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 38",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 40",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 40",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 42",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 42",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 44",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 44",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 46",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 46",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 48",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 48",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 50",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 50",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 52",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 52",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 54",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 54",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 56",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 56",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 58",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 58",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 60",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 60",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 62",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 62",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 64",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 64",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 66",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 66",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 68",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 68",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 70",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 70",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 72",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 72",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 74",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 74",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 76",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 76",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 78",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 78",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 80",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 80",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 82",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 82",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 84",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 84",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 86",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 86",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 88",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 88",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 90",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 90",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 92",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 92",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 94",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 94",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 96",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 96",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 98",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 98",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 100",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 100",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 103",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 103",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 104",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 104",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 106",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 106",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 108",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 108",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 110",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 110",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 112",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 112",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 114",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 114",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 116",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 116",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 118",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 118",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 120",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 120",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 122",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 122",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 124",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 124",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 126",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 126",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 128",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 128",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 130",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 130",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 132",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 132",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 134",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 134",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 136",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 136",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 138",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 138",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 140",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 140",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 142",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 142",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 144",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 144",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 146",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 146",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 148",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 148",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 150",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 150",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 152",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 152",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 154",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 154",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 156",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 156",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 158",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 158",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 160",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 160",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 162",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 162",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 164",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 164",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 166",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 166",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 168",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 168",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 170",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 170",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 172",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 172",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 174",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 174",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 176",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 176",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 178",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 178",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 180",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 180",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 182",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 182",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 184",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 184",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 186",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 186",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 188",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 188",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 190",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 190",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 192",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 192",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 194",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 194",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 196",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 196",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 198",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 198",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 200",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 200",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 202",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 202",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 204",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 204",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 206",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 206",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 208",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 208",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 210",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 210",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 212",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 212",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 214",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 214",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 216",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 216",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 218",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 218",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 220",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 220",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 222",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 222",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 224",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 224",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 226",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 226",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 228",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 228",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 230",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 230",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 232",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 232",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 234",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 234",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße  1",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße  1",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 3",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 5",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 5",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 9",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 11",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 11",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 13",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 13",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 15",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 15",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 17",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 17",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 19",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 19",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 21",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 23",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 23",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 25",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 25",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 27",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 27",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 29",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 29",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 31",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 31",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 33",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 33",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 35",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 35",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 37",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 37",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 39",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 39",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 41",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 41",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 43",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 43",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 45",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 45",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 47",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 47",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 49",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 49",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 51",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 51",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 53",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 53",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 55",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 55",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 57",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 57",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 59",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 59",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 61",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 61",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 63",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 63",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 65",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 65",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 67",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 67",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 69",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 69",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 71",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 71",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 73",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 73",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 75",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 75",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 77",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 77",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 79",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 79",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 81",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 81",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 83",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 83",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 85",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 85",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 87",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 87",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 89",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 89",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 91",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 91",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 93",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 93",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 95",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 95",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 97",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 97",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 99",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 99",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 101",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 101",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 103",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 103",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 105",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 105",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 107",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 107",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 109",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 109",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 111",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 111",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 113",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 113",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 115",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 115",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 117",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 117",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 119",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 119",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 121",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 121",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 123",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 123",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 125",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 125",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 127",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 127",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 129",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 129",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 131",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 131",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 133",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 133",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 135",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 135",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 137",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 137",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 139",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 139",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 141",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 141",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 143",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 143",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 146",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 146",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 148",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 148",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 150",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 150",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 152",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 152",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 154",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 154",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 156",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 156",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 159",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 159",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 161",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 161",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 163",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 163",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 165",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 165",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 167",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 167",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 169",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 169",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 171",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 171",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 173",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 173",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 175",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 175",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 177",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 177",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 179",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 179",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 181",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 181",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 183",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 183",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 185",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 185",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 187",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 187",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 189",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 189",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 191",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 191",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 193",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 193",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 195",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 195",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 197",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 197",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 199",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 199",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 201",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 201",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 203",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 203",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 205",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 205",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 207",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 207",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 209",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 209",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 211",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 211",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 213",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 213",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 215",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 215",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 217",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 217",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 219",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 219",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 221",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 221",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 2",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 2",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 4",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 4",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 10",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 10",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 12",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 12",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 14",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 14",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 16",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 16",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 18",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 18",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 20",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 20",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 22",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 22",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 24",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 24",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 26",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 26",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 28",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 28",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 30",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 30",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 32",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 32",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 34",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 34",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 36",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 36",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 38",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 38",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 40",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 40",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 42",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 42",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 44",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 44",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 46",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 46",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 48",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 48",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 50",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 50",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 52",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 52",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 54",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 54",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 56",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 56",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 58",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 58",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 60",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 60",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 62",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 62",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 64",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 64",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 66",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 66",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 68",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 68",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 70",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 70",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 72",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 72",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 74",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 74",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 76",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 76",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 78",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 78",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 80",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 80",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 82",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 82",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 84",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 84",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 86",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 86",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 88",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 88",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 90",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 90",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 92",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 92",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 94",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 94",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 96",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 96",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 98",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 98",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 100",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 100",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 102",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 102",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 104",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 104",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 106",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 106",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 108",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 108",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 110",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 110",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 112",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 112",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 114",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 114",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 116",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 116",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 118",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 118",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 120",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 120",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 122",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 122",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 124",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 124",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 126",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 126",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 128",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 128",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 130",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 130",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 132",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 132",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 134",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 134",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 136",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 136",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 138",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 138",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 140",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 140",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 142",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 142",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 144",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 144",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 146",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 146",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 148",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 148",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 150",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 150",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 152",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 152",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 154",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 154",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 156",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 156",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 158",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 158",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 160",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 160",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 162",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 162",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 164",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 164",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 166",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 166",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 168",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 168",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 170",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 170",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 172",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 172",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 174",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 174",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 176",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 176",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 178",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 178",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 180",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 180",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 182",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 182",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 184",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 184",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 186",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 186",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 188",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 188",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 190",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 190",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 192",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 192",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 194",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 194",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 196",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 196",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 198",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 198",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 200",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 200",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 202",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 202",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 204",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 204",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 206",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 206",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 208",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 208",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 210",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 210",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 212",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 212",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 214",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 214",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 216",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 216",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 218",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 218",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 220",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 220",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 222",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 222",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 224",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 224",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 226",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 226",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 228",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 228",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-

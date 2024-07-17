@@ -1,0 +1,59 @@
+.bookingport_dashboard
+  background: #fff
+  main
+    .wrapper
+      .dashboard-user-wrapper
+        @media screen and (min-width: 1000px)
+          display: flex
+          justify-content: space-between
+          gap: 50px
+          & > *
+            width: calc(50% - 25px)
+      .market-overview
+        overflow-x: scroll
+        table
+          td
+            border: 1px solid #999
+            padding: 5px
+      ul
+        margin-top: 35px
+        padding-left: 0
+        display: flex
+        flex-direction: column
+        gap: 10px
+        list-style-type: none
+
+        li:not(.menu-item-logout)
+          padding: 14px 26px
+          color: #fff
+          background: linear-gradient(99deg, #D70000, #770101) no-repeat, #770101
+          border-radius: 30px
+          max-width: 500px
+          width: 100%
+
+          &:hover
+            @media (min-width: 900px)
+              background: linear-gradient(99deg, #770101, #D70000) no-repeat, #D70000
+
+          a
+            display: inline-block
+            width: 100%
+
+        li.menu-item-logout
+          margin: 75px 0 50px
+          color: #555555
+          display: inline-block
+          font-size: 16px
+          background: transparent
+          border: 1px solid #999
+          padding: 14px 26px
+          width: max-content
+          font-weight: 500
+          border-radius: 40px
+          text-align: center
+          cursor: pointer
+
+          &:hover
+            @media screen and (min-width: 1300px)
+              color: #fff
+              background: #555555

@@ -1,0 +1,1261 @@
+Standname,Buchungstag,Standstatus,Kunde,Rechnungsnummer,"Standpreis in €",Standbreite,Standtiefe,Stromanschluss,Wasseranschluss,Imbiss,Getränke,Fahrgeschäft/e,Sortiment,"Notizen vom Kunden",Bezahlstatus
+"Stiftsmarkt 26",Samstag,Verkauft,"Andreas Fabisch (Gewerblich)",1852,50€,1.5m,"0,60m",Nein,Nein,Nein,Nein,,Glühwein,,Bezahlt
+"Stiftsmarkt 26",Sonntag,Verkauft,"Andreas Fabisch (Gewerblich)",1852,50€,1.5m,"0,60m",Nein,Nein,Nein,Nein,,Glühwein,,Bezahlt
+"Stiftsmarkt 24",Samstag,Verkauft,"Simone Wardinski (Privat_troedel)",1751,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Stiftsmarkt 24",Sonntag,Verkauft,"Simone Wardinski (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 22",Samstag,Verkauft,"Enka Marie Mentrup (Privat_troedel)",1926,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Stiftsmarkt 22",Sonntag,Verkauft,"Enka Marie Mentrup (Privat_troedel)",1890,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Stiftsmarkt 20",Samstag,Verkauft,"Vanessa Meller (Gewerblich)",1817,50€,3m,"0,60m",Nein,Nein,Nein,Nein,,"Bedruckte/personalisierte Textilien",,"Zahlung ausstehend"
+"Stiftsmarkt 20",Sonntag,Verkauft,"Vanessa Meller (Gewerblich)",1817,50€,3m,"0,60m",Nein,Nein,Nein,Nein,,"Bedruckte/personalisierte Textilien",,"Zahlung ausstehend"
+"Stiftsmarkt 18",Samstag,Verkauft,"Kristina Ronge (Privat_troedel)",1662,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Stiftsmarkt 18",Sonntag,Verkauft,"Kristina Ronge (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 16",Samstag,Verkauft,"Kathrin Arp (Privat_troedel)",1932,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Stiftsmarkt 16",Sonntag,Verkauft,"Kathrin Arp (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 14",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 14",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 12",Samstag,Verkauft,"Patrick Spolder (Gewerblich)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 12",Sonntag,Verkauft,"Patrick Spolder (Gewerblich)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 10",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 10",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 8",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 6",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 4",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 4",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 2",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 2",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 25",Samstag,Verkauft,"Sabine Termeer (Privat_anlieger)",1515,30€,3m,"0,6m",,,,,,,"Mir ist bewusst, dass für die Bücherei schon Flächen dankenswerter Weise reserviert wurden. Aus dem Team wollen gerne noch mehr etwas verkaufen - daher zusätzliche Flächenreservierungen. Vielen Dank ! SaBine",Bezahlt
+"Stiftsmarkt 25",Sonntag,Verkauft,"Sabine Termeer (Privat_anlieger)",1515,30€,3m,"0,6m",,,,,,,"Mir ist bewusst, dass für die Bücherei schon Flächen dankenswerter Weise reserviert wurden. Aus dem Team wollen gerne noch mehr etwas verkaufen - daher zusätzliche Flächenreservierungen. Vielen Dank ! SaBine",Bezahlt
+"Stiftsmarkt 23",Samstag,Verkauft,"Sabine Termeer (Privat_anlieger)",1515,30€,3m,"0,6m",,,,,,,"Mir ist bewusst, dass für die Bücherei schon Flächen dankenswerter Weise reserviert wurden. Aus dem Team wollen gerne noch mehr etwas verkaufen - daher zusätzliche Flächenreservierungen. Vielen Dank ! SaBine",Bezahlt
+"Stiftsmarkt 23",Sonntag,Verkauft,"Sabine Termeer (Privat_anlieger)",1515,30€,3m,"0,6m",,,,,,,"Mir ist bewusst, dass für die Bücherei schon Flächen dankenswerter Weise reserviert wurden. Aus dem Team wollen gerne noch mehr etwas verkaufen - daher zusätzliche Flächenreservierungen. Vielen Dank ! SaBine",Bezahlt
+"Stiftsmarkt 21b",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 21b",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 21a",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 21a",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 21",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 19",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 19",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 17",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 17",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 15",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 15",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 13",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 13",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 11",Samstag,Verkauft,"Silvia Artmeier (Privat_troedel)",1738,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Stiftsmarkt 11",Sonntag,Verkauft,"Silvia Artmeier (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 9",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 9",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 7",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 5",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 5",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt 3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt 3",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Stiftsmarkt  1",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Stiftsmarkt  1",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Everwordstraße 7",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Everwordstraße 7",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Everwordstraße 5",Samstag,Angefragt,"Tobias Große Lembeck (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Everwordstraße 5",Sonntag,Angefragt,"Tobias Große Lembeck (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Everwordstraße 3",Samstag,Angefragt,"Gonzalo Suarez Salazar (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Everwordstraße 3",Sonntag,Angefragt,"Gonzalo Suarez Salazar (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Everwordstraße  1",Samstag,Angefragt,"Navina Schmidt (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Everwordstraße  1",Sonntag,Angefragt,"Navina Schmidt (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 228",Samstag,Verkauft,"Anke Pickenäcker (Privat_troedel)",1754,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 228",Sonntag,Verkauft,"Anke Pickenäcker (Privat_troedel)",1754,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 226",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 226",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 224",Samstag,Angefragt,"Andre Boritzky (Schausteller)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 224",Sonntag,Angefragt,"Andre Boritzky (Schausteller)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 222",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 222",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 220",Samstag,Verkauft,"Karin Frese (Privat_anlieger)",1915,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Warendorfer Straße 220",Sonntag,Frei,"Karin Frese (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 218",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 218",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 216",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 216",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 214",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 214",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 212",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 212",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 210",Samstag,Verkauft,"Karin-Uta Dünwald (Privat_anlieger)",1573,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 210",Sonntag,Frei,"Karin-Uta Dünwald (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 208",Samstag,Verkauft,"Annette Lemkau (Gewerblich)",1821,25€,3m,m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Warendorfer Straße 208",Sonntag,Frei,"Annette Lemkau (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 206",Samstag,Verkauft,"Annette Lemkau (Gewerblich)",1483,15€,3m,"0,6m",,,,,,,"Hallo Herr Schroeder, vielen Dank für die Hilfe am Telefon. Bitte stellen sie den geblockten Stand 208 für Samstag in Rechnung. Wir verkaufen an der Kita, wie jedes Jahr, Waffeln und Kaffee. Viele Grüße Annette von der Kita Wilde Wiese.",Bezahlt
+"Warendorfer Straße 206",Sonntag,Frei,"Annette Lemkau (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 204",Samstag,Verkauft,"Elfriede Großfeld (Privat_anlieger)",1493,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 204",Sonntag,Verkauft,"Elfriede Großfeld (Privat_anlieger)",1493,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 202",Samstag,Verkauft,"Elfriede Großfeld (Privat_anlieger)",1493,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 202",Sonntag,Verkauft,"Elfriede Großfeld (Privat_anlieger)",1493,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 200",Samstag,Verkauft,"Elfriede Großfeld (Privat_anlieger)",1493,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 200",Sonntag,Verkauft,"Elfriede Großfeld (Privat_anlieger)",1493,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 198",Samstag,Verkauft,"Elfriede Großfeld (Privat_anlieger)",1493,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 198",Sonntag,Verkauft,"Elfriede Großfeld (Privat_anlieger)",1493,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 196",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 196",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 194",Samstag,Verkauft,"Saskia Hartmann (Privat_troedel)",1920,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Warendorfer Straße 194",Sonntag,Frei,"Saskia Hartmann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 192",Samstag,Verkauft,"Saskia Hartmann (Privat_troedel)",1920,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Warendorfer Straße 192",Sonntag,Frei,"Saskia Hartmann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 190",Samstag,Verkauft,"Susanne Brinkmann (Privat_anlieger)",1514,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 190",Sonntag,Frei,"Susanne Brinkmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 188",Samstag,Verkauft,"Jürgen Vieting (Privat_anlieger)",1454,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 188",Sonntag,Verkauft,"Jürgen Vieting (Privat_anlieger)",1454,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 186",Samstag,Verkauft,"Jürgen Vieting (Privat_anlieger)",1449,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 186",Sonntag,Verkauft,"Jürgen Vieting (Privat_anlieger)",1449,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 182",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 182",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 180",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 180",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 178",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 178",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 176",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 176",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 172",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 172",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 170",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1632,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 170",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",1685,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 168",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1685,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 168",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 166",Samstag,Verkauft,"Hendrik Wagemann (Privat_troedel)",1910,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 166",Sonntag,Verkauft,"Hendrik Wagemann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 164",Samstag,Verkauft,"Henriette Hüchtker (Privat_anlieger)",1577,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 164",Sonntag,Verkauft,"Henriette Hüchtker (Privat_anlieger)",1577,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 162",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1842,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 162",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",1842,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 160",Samstag,Verkauft,"Serpil Eva Sahin (Privat_troedel)",1887,15€,3m,"0,6m",,,,,,,"Schönen guten Tag,
+wir würden bei beiden Ständen gerne ein Pavillon mit aufstellen, wäre das möglich? Ein Stand wäre privater Trödel und den zweiten Stand würden wir zur Hälfte privat (1,5 m) und zur Hälfte gewerblich (1,5m) nutzen. Wie wäre das dann mit der Berechnung des Preises? Sie können mich diesbezüglich auch gerne telefonisch kontaktieren.
+
+Freundliche Grüße
+Serpil Eva Sahin","Zahlung ausstehend"
+"Warendorfer Straße 160",Sonntag,Verkauft,"Serpil Eva Sahin (Privat_troedel)",1933,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 158",Samstag,Verkauft,"Serpil Eva Sahin (Privat_troedel)",1887,15€,3m,"0,6m",,,,,,,"Schönen guten Tag,
+wir würden bei beiden Ständen gerne ein Pavillon mit aufstellen, wäre das möglich? Ein Stand wäre privater Trödel und den zweiten Stand würden wir zur Hälfte privat (1,5 m) und zur Hälfte gewerblich (1,5m) nutzen. Wie wäre das dann mit der Berechnung des Preises? Sie können mich diesbezüglich auch gerne telefonisch kontaktieren.
+
+Freundliche Grüße
+Serpil Eva Sahin","Zahlung ausstehend"
+"Warendorfer Straße 158",Sonntag,Verkauft,"Serpil Eva Sahin (Privat_troedel)",1933,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 156",Samstag,Verkauft,"Marco Schneider (Schausteller)",1618,50€,3.33m,2.5m,Ja,Ja,Nein,Nein,"Marco´s Früchtchen. Mandeln Popcorn Schokofrüchte Zuckerwatte",,"Wenn möglich würde ich meinen Lkw gerne wieder hinter den Toiletten wagen stellen.",Bezahlt
+"Warendorfer Straße 156",Sonntag,Verkauft,"Marco Schneider (Schausteller)",1618,50€,3.33m,2.5m,Ja,Ja,Nein,Nein,"Marco´s Früchtchen. Mandeln Popcorn Schokofrüchte Zuckerwatte",,"Wenn möglich würde ich meinen Lkw gerne wieder hinter den Toiletten wagen stellen.",Bezahlt
+"Warendorfer Straße 154",Samstag,Verkauft,"Marco Schneider (Schausteller)",1618,50€,3.33m,2.5m,Ja,Ja,Nein,Nein,"Marco´s Früchtchen. Mandeln Popcorn Schokofrüchte Zuckerwatte",,"Wenn möglich würde ich meinen Lkw gerne wieder hinter den Toiletten wagen stellen.",Bezahlt
+"Warendorfer Straße 154",Sonntag,Verkauft,"Marco Schneider (Schausteller)",1618,50€,3.33m,2.5m,Ja,Ja,Nein,Nein,"Marco´s Früchtchen. Mandeln Popcorn Schokofrüchte Zuckerwatte",,"Wenn möglich würde ich meinen Lkw gerne wieder hinter den Toiletten wagen stellen.",Bezahlt
+"Warendorfer Straße 152",Samstag,Verkauft,"Marco Schneider (Schausteller)",1618,50€,3.33m,2.5m,Ja,Ja,Nein,Nein,"Marco´s Früchtchen. Mandeln Popcorn Schokofrüchte Zuckerwatte",,"Wenn möglich würde ich meinen Lkw gerne wieder hinter den Toiletten wagen stellen.",Bezahlt
+"Warendorfer Straße 152",Sonntag,Verkauft,"Marco Schneider (Schausteller)",1618,50€,3.33m,2.5m,Ja,Ja,Nein,Nein,"Marco´s Früchtchen. Mandeln Popcorn Schokofrüchte Zuckerwatte",,"Wenn möglich würde ich meinen Lkw gerne wieder hinter den Toiletten wagen stellen.",Bezahlt
+"Warendorfer Straße 150",Samstag,Verkauft,"Nancy Hoffmeyer (Gewerblich)",1854,43.33€,3m,m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Warendorfer Straße 150",Sonntag,Verkauft,"Nancy Hoffmeyer (Gewerblich)",1854,43.33€,3m,m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Warendorfer Straße 148",Samstag,Verkauft,"Nancy Hoffmeyer (Gewerblich)",1854,43.33€,3m,m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Warendorfer Straße 148",Sonntag,Verkauft,"Nancy Hoffmeyer (Gewerblich)",1854,43.33€,3m,m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Warendorfer Straße 146",Samstag,Verkauft,"Nancy Hoffmeyer (Gewerblich)",1854,43.33€,3m,m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Warendorfer Straße 146",Sonntag,Verkauft,"Nancy Hoffmeyer (Gewerblich)",1854,43.33€,3m,m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Warendorfer Straße 144",Samstag,Verkauft,"Elke Hövener (Privat_troedel)",1794,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 144",Sonntag,Verkauft,"Elke Hövener (Privat_troedel)",1907,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 142",Samstag,Verkauft,"Elke Hövener (Privat_troedel)",1794,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 142",Sonntag,Verkauft,"Elke Hövener (Privat_troedel)",1907,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 140",Samstag,Verkauft,"Elke Hövener (Privat_troedel)",1794,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 140",Sonntag,Verkauft,"Elke Hövener (Privat_troedel)",1907,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 136",Samstag,"Reserviert (Admin)","Michael Kasbera (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 136",Sonntag,"Reserviert (Admin)","Michael Kasbera (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 134",Samstag,"Reserviert (Admin)","Michael Kasbera (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 134",Sonntag,"Reserviert (Admin)","Michael Kasbera (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 132",Samstag,Verkauft,"Ingrid Rickmann (Privat_anlieger)",1492,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 132",Sonntag,Verkauft,"Ingrid Rickmann (Privat_anlieger)",1492,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 130",Samstag,Verkauft,"Ingrid Rickmann (Privat_anlieger)",1492,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 130",Sonntag,Verkauft,"Ingrid Rickmann (Privat_anlieger)",1492,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 128",Samstag,Verkauft,"Ingrid Rickmann (Privat_anlieger)",1494,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 128",Sonntag,Verkauft,"Ingrid Rickmann (Privat_anlieger)",1494,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 114",Samstag,Verkauft,"Theo Hartmeyer (Privat_anlieger)",1486,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 114",Sonntag,Frei,"Theo Hartmeyer (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 112",Samstag,Verkauft,"Norbert Stammkötter (Privat_anlieger)",1553,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 112",Sonntag,Verkauft,"Norbert Stammkötter (Privat_anlieger)",1553,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 110",Samstag,Verkauft,"Norbert Stammkötter (Privat_anlieger)",1553,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 110",Sonntag,Verkauft,"Norbert Stammkötter (Privat_anlieger)",1553,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 108",Samstag,Verkauft,"Norbert Stammkötter (Privat_anlieger)",1553,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 108",Sonntag,Verkauft,"Norbert Stammkötter (Privat_anlieger)",1553,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 106",Samstag,Verkauft,"Maria Sehl (Privat_anlieger)",1468,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 106",Sonntag,Verkauft,"Maria Sehl (Privat_anlieger)",1468,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 104",Samstag,Verkauft,"Maria Sehl (Privat_anlieger)",1468,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 104",Sonntag,Verkauft,"Maria Sehl (Privat_anlieger)",1468,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 100",Samstag,Verkauft,"Gerti Ermeling (Privat_troedel)",1743,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 100",Sonntag,Verkauft,"Gerti Ermeling (Privat_troedel)",1743,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 94",Samstag,Verkauft,"Lisa Scharnewski (Gewerblich)",1867,50€,3m,"0,60m",Nein,Nein,Nein,Nein,,"Personalisiertes geplottete Kissenbezüge, Schlüsselanhänger, Trinkbecher uvm. (Instagram: liz_plotterwelt)","Wäre es möglich nachträglich doch noch einen Stromanschluss zu bekommen?
+Wenn nicht, wäre es auch nicht schlimm :)
+Liebe Grüße, Liz","Zahlung ausstehend"
+"Warendorfer Straße 94",Sonntag,Verkauft,"Lisa Scharnewski (Gewerblich)",1867,50€,3m,"0,60m",Nein,Nein,Nein,Nein,,"Personalisiertes geplottete Kissenbezüge, Schlüsselanhänger, Trinkbecher uvm. (Instagram: liz_plotterwelt)","Wäre es möglich nachträglich doch noch einen Stromanschluss zu bekommen?
+Wenn nicht, wäre es auch nicht schlimm :)
+Liebe Grüße, Liz","Zahlung ausstehend"
+"Warendorfer Straße 92",Samstag,Verkauft,"Joachim Löckmann (Privat_troedel)",1748,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 92",Sonntag,Verkauft,"Joachim Löckmann (Privat_troedel)",1748,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 90",Samstag,Verkauft,"Joachim Löckmann (Privat_troedel)",1749,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 90",Sonntag,Verkauft,"Joachim Löckmann (Privat_troedel)",1749,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 88",Samstag,Verkauft,"Ferdinand Kappelhoff (Privat_troedel)",1697,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 88",Sonntag,Frei,"Ferdinand Kappelhoff (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 86",Samstag,Verkauft,"Alexandra Kappelhoff (Privat_troedel)",1631,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 86",Sonntag,Frei,"Alexandra Kappelhoff (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 84",Samstag,Verkauft,"Alexandra Kappelhoff (Privat_troedel)",1631,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 84",Sonntag,Verkauft,"Alexandra Kappelhoff (Privat_troedel)",1911,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Warendorfer Straße 82",Samstag,Verkauft,"Maria Magdlung (Privat_anlieger)",1576,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 82",Sonntag,Verkauft,"Maria Magdlung (Privat_anlieger)",1576,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 80",Samstag,Verkauft,"Dieter Middendorf (Privat_anlieger)",1477,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 80",Sonntag,Verkauft,"Dieter Middendorf (Privat_anlieger)",1477,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 78",Samstag,Verkauft,"Dieter Middendorf (Privat_anlieger)",1478,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 78",Sonntag,Verkauft,"Dieter Middendorf (Privat_anlieger)",1478,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 76",Samstag,Verkauft,"Marc Benefader (Privat_troedel)",1865,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 76",Sonntag,Frei,"Marc Benefader (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 74",Samstag,Verkauft,"Panagiota Kyparissi (Privat_anlieger)",1517,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 74",Sonntag,Verkauft,"Panagiota Kyparissi (Privat_anlieger)",1517,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 72",Samstag,Verkauft,"Panagiota Kyparissi (Privat_anlieger)",1517,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 72",Sonntag,Verkauft,"Panagiota Kyparissi (Privat_anlieger)",1517,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 70",Samstag,Verkauft,"Claudia Gierhake (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 70",Sonntag,Verkauft,"Claudia Gierhake (Privat_troedel)",1730,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 68",Samstag,Verkauft,"Claudia Gierhake (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 68",Sonntag,Verkauft,"Claudia Gierhake (Privat_troedel)",1730,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 66",Samstag,Verkauft,"Tanja Wekeiser (Privat_troedel)",1872,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 66",Sonntag,Verkauft,"Tanja Wekeiser (Privat_troedel)",1730,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 64",Samstag,Verkauft,"Tanja Wekeiser (Privat_troedel)",1872,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 64",Sonntag,Verkauft,"Tanja Wekeiser (Privat_troedel)",1872,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 62",Samstag,Verkauft,"Annette Lemkau (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 62",Sonntag,Verkauft,"Annette Lemkau (Gewerblich)",1768,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 60",Samstag,Verkauft,"Lara Niehaus (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 60",Sonntag,Frei,"Lara Niehaus (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 58",Samstag,Verkauft,"Venetha Ketheeswaran (Privat_anlieger)",1575,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 58",Sonntag,Verkauft,"Venetha Ketheeswaran (Privat_anlieger)",1575,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 56",Samstag,Verkauft,"Lena Pischke (Privat_troedel)",1868,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 56",Sonntag,Verkauft,"Lena Pischke (Privat_troedel)",1868,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 54",Samstag,Verkauft,"Jana Wolff (Privat_troedel)",1717,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 54",Sonntag,Verkauft,"Jana Wolff (Privat_troedel)",1717,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 52",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 52",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 50",Samstag,Verkauft,"Sarah Maxelon (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 50",Sonntag,Frei,"Sarah Maxelon (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 48",Samstag,Verkauft,"Sarah Maxelon (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 48",Sonntag,Frei,"Sarah Maxelon (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 46",Samstag,"Reserviert (Admin)","Fethi Gökoglan (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 46",Sonntag,"Reserviert (Admin)","Fethi Gökoglan (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 44",Samstag,Verkauft,"Ilona Bartholomaeus (Privat_troedel)",1845,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 44",Sonntag,Frei,"Ilona Bartholomaeus (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 42",Samstag,Verkauft,"Aurelia Heda (Privat_troedel)",1726,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 42",Sonntag,Frei,"Aurelia Heda (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 40",Samstag,Verkauft,"Aurelia Heda (Privat_troedel)",1724,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 40",Sonntag,Verkauft,"Aurelia Heda (Privat_troedel)",1710,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 38",Samstag,Verkauft,"Katja Koke (Privat_troedel)",1702,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 38",Sonntag,Frei,"Katja Koke (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 36",Samstag,Verkauft,"Katja Koke (Privat_troedel)",1702,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 36",Sonntag,Frei,"Katja Koke (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 36",Samstag,Verkauft,"Katja Koke (Privat_troedel)",1702,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 36",Sonntag,Frei,"Katja Koke (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 32",Samstag,Verkauft,"Achim Hensdiek (Mitglieder)",1814,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 32",Sonntag,Verkauft,"Achim Hensdiek (Mitglieder)",1814,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 30",Samstag,Verkauft,"Achim Hensdiek (Mitglieder)",1814,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 30",Sonntag,Verkauft,"Achim Hensdiek (Mitglieder)",1814,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 28",Samstag,Verkauft,"Achim Hensdiek (Mitglieder)",1814,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 28",Sonntag,Verkauft,"Achim Hensdiek (Mitglieder)",1814,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 26",Samstag,Verkauft,"Patrik Magdlung (Privat_anlieger)",1678,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 26",Sonntag,Verkauft,"Patrik Magdlung (Privat_anlieger)",1678,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 24",Samstag,Verkauft,"Silke Miele (Privat_troedel)",1921,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 24",Sonntag,Frei,"Silke Miele (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 16",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 16",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 14",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 14",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 12",Samstag,Verkauft,"Fethi Gökoglan (Privat_anlieger)",1541,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 12",Sonntag,Verkauft,"Fethi Gökoglan (Privat_anlieger)",1541,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 10",Samstag,Verkauft,"Matthias Freßmann (Privat_anlieger)",1537,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 10",Sonntag,Frei,"Matthias Freßmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 8",Samstag,Verkauft,"Elke Buchwald (Privat_troedel)",1642,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 8",Sonntag,Verkauft,"Elke Buchwald (Privat_troedel)",1642,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 6",Samstag,Verkauft,"Monika Siebert (Privat_troedel)",1781,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 6",Sonntag,Verkauft,"Monika Siebert (Privat_troedel)",1781,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 4",Samstag,Verkauft,"Monika Siebert (Privat_troedel)",1781,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 4",Sonntag,Verkauft,"Monika Siebert (Privat_troedel)",1781,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 221",Samstag,Verkauft,"Uwe Wekeiser (Privat_troedel)",1683,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 221",Sonntag,Verkauft,"Uwe Wekeiser (Privat_troedel)",1683,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 219",Samstag,Verkauft,"Uwe Wekeiser (Privat_troedel)",1683,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 219",Sonntag,Verkauft,"Uwe Wekeiser (Privat_troedel)",1683,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 217",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 217",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 215",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 215",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 213",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 213",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 211",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 211",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 209",Samstag,Verkauft,"Katja Hommel (Privat_troedel)",1846,30€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Warendorfer Straße 209",Sonntag,Verkauft,"Katja Hommel (Privat_troedel)",1846,30€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Warendorfer Straße 207",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 207",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 203",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 203",Sonntag,Verkauft,"Kein Kunde",1797,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 201",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 201",Sonntag,Verkauft,"Kein Kunde",1797,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 199",Samstag,Verkauft,"Silke Renkert (Privat_troedel)",1879,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 199",Sonntag,Frei,"Silke Renkert (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 197",Samstag,Verkauft,"Silke Renkert (Privat_troedel)",1879,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 197",Sonntag,Frei,"Silke Renkert (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 195",Samstag,Verkauft,"Eleonore Guenther (Privat_anlieger)",1485,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 195",Sonntag,Frei,"Eleonore Guenther (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 193",Samstag,Verkauft,"Eleonore Guenther (Privat_anlieger)",1485,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 193",Sonntag,Verkauft,"Eleonore Guenther (Privat_anlieger)",1485,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 191",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 191",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 189",Samstag,Verkauft,"Ingo Bergener (Privat_troedel)",1653,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 189",Sonntag,Verkauft,"Ingo Bergener (Privat_troedel)",1653,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 187",Samstag,Verkauft,"Ingo Bergener (Privat_troedel)",1635,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 187",Sonntag,Verkauft,"Ingo Bergener (Privat_troedel)",1635,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 185",Samstag,Verkauft,"Ingo Bergener (Privat_troedel)",1651,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 185",Sonntag,Verkauft,"Ingo Bergener (Privat_troedel)",1651,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 173",Samstag,Verkauft,"Annerose Westphal (Privat_troedel)",1756,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 173",Sonntag,Verkauft,"Annerose Westphal (Privat_troedel)",1756,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 171",Samstag,Verkauft,"Ralf Jürgens (Privat_troedel)",1687,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 171",Sonntag,Verkauft,"Ralf Jürgens (Privat_troedel)",1687,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 169",Samstag,Verkauft,"Ralf Jürgens (Privat_troedel)",1687,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 169",Sonntag,Verkauft,"Ralf Jürgens (Privat_troedel)",1687,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 167",Samstag,Verkauft,"Sandra Wickinghoff (Privat_anlieger)",1540,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 167",Sonntag,Frei,"Sandra Wickinghoff (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 165",Samstag,Verkauft,"Sandra Wickinghoff (Privat_anlieger)",1540,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 165",Sonntag,Frei,"Sandra Wickinghoff (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 163",Samstag,"Reserviert (Admin)","Christina  Nüßing  (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 163",Sonntag,"Reserviert (Admin)","Christina  Nüßing  (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 161",Samstag,"Reserviert (Admin)","Christina  Nüßing  (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 161",Sonntag,"Reserviert (Admin)","Christina  Nüßing  (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 159",Samstag,"Reserviert (Admin)","Christina  Nüßing  (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 159",Sonntag,"Reserviert (Admin)","Christina  Nüßing  (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 157",Samstag,Verkauft,"Maria Westhoff (Privat_troedel)",1735,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 157",Sonntag,Frei,"Maria Westhoff (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 155",Samstag,Verkauft,"Volker Meyer-Carlstädt (Privat_troedel)",1691,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 155",Sonntag,Frei,"Volker Meyer-Carlstädt (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 153",Samstag,Verkauft,"Volker Meyer-Carlstädt (Privat_troedel)",1691,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 153",Sonntag,Verkauft,"Volker Meyer-Carlstädt (Privat_troedel)",1691,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 151",Samstag,Verkauft,"Volker Meyer-Carlstädt (Privat_troedel)",1691,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 151",Sonntag,Verkauft,"Volker Meyer-Carlstädt (Privat_troedel)",1691,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 149",Samstag,Verkauft,"Sadettin Topaloglu (Privat_anlieger)",1549,30€,3m,"0,6m",,,,,,,"In der Karte ist die Nummer 149 hinterlegt.
+
+Geht um die Warendorfer Straße 49",Bezahlt
+"Warendorfer Straße 149",Sonntag,Verkauft,"Sadettin Topaloglu (Privat_anlieger)",1549,30€,3m,"0,6m",,,,,,,"In der Karte ist die Nummer 149 hinterlegt.
+
+Geht um die Warendorfer Straße 49",Bezahlt
+"Warendorfer Straße 147",Samstag,Verkauft,"Natascha Schröder (Privat_troedel)",1899,30€,3m,"0,6m",,,,,,,"Ggf mit Pavillon bei Regenwetter",Bezahlt
+"Warendorfer Straße 147",Sonntag,Verkauft,"Natascha Schröder (Privat_troedel)",1899,30€,3m,"0,6m",,,,,,,"Ggf mit Pavillon bei Regenwetter",Bezahlt
+"Warendorfer Straße 145",Samstag,Verkauft,"Tanja Bieberstein (Privat_anlieger)",1542,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 145",Sonntag,Verkauft,"Tanja Bieberstein (Privat_anlieger)",1542,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 143",Samstag,Verkauft,"Tanja Bieberstein (Privat_anlieger)",1542,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 143",Sonntag,Verkauft,"Tanja Bieberstein (Privat_anlieger)",1542,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 123",Samstag,Verkauft,"Simone Ripke (Privat_anlieger)",1490,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 123",Sonntag,Verkauft,"Simone Ripke (Privat_anlieger)",1490,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 121",Samstag,Verkauft,"Simone Ripke (Privat_anlieger)",1490,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 121",Sonntag,Verkauft,"Simone Ripke (Privat_anlieger)",1490,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 119",Samstag,Verkauft,"Simone Ripke (Privat_anlieger)",1490,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 119",Sonntag,Verkauft,"Simone Ripke (Privat_anlieger)",1490,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 117",Samstag,Verkauft,"Anja Voß (Privat_anlieger)",1538,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 117",Sonntag,Verkauft,"Anja Voß (Privat_anlieger)",1538,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 115",Samstag,Verkauft,"Anja Voß (Privat_anlieger)",1538,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 115",Sonntag,Verkauft,"Anja Voß (Privat_anlieger)",1538,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 113",Samstag,Verkauft,"Jennifer Kors (Privat_troedel)",1736,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 113",Sonntag,Frei,"Jennifer Kors (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 111",Samstag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 111",Sonntag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 109",Samstag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 109",Sonntag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 107",Samstag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 107",Sonntag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 105",Samstag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 105",Sonntag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 103",Samstag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 103",Sonntag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 101",Samstag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 101",Sonntag,"Reserviert (Admin)","Alfons Averhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 99",Samstag,Verkauft,"Henriette Hüchtker (Privat_anlieger)",1703,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 99",Sonntag,Verkauft,"Henriette Hüchtker (Privat_anlieger)",1703,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 87",Samstag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 87",Sonntag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 85",Samstag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 85",Sonntag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 83",Samstag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 83",Sonntag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 81",Samstag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 81",Sonntag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 79",Samstag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 79",Sonntag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 77",Samstag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 77",Sonntag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 75",Samstag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 75",Sonntag,Verkauft,"Christin Tewes (Privat_anlieger)",1554,30€,3m,"0,6m",,,,,,,"Buchungen für Familie sommer-barkey. Durch geführt von der Tochter.
+Lg",Bezahlt
+"Warendorfer Straße 59",Samstag,Verkauft,"Osman Sahintürk (Verein)",1856,300€,3m,m,Nein,Nein,Ja,Ja,,,,Bezahlt
+"Warendorfer Straße 59",Sonntag,Verkauft,"Osman Sahintürk (Verein)",1856,300€,3m,m,Nein,Nein,Ja,Ja,,,,Bezahlt
+"Warendorfer Straße 57",Samstag,Verkauft,"Osman Sahintürk (Verein)",1856,300€,3m,m,Nein,Nein,Ja,Ja,,,,Bezahlt
+"Warendorfer Straße 57",Sonntag,Verkauft,"Osman Sahintürk (Verein)",1856,300€,3m,m,Nein,Nein,Ja,Ja,,,,Bezahlt
+"Warendorfer Straße 53",Samstag,Verkauft,"Andrea Reichert (Privat_troedel)",1900,30€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Warendorfer Straße 53",Sonntag,Verkauft,"Andrea Reichert (Privat_troedel)",1900,30€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Warendorfer Straße 51",Samstag,Verkauft,"Jana Wolff (Privat_troedel)",1714,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 51",Sonntag,Verkauft,"Jana Wolff (Privat_troedel)",1714,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 49",Samstag,Verkauft,"Sadettin Topaloglu (Privat_anlieger)",1613,30€,3m,"0,6m",,,,,,,"Ich habe schon mit dem Benutzernamen: big_king_89@web.de den Betrag von 30€ … dort habe ich wieso auch immer die Standnummer 149 reserviert bekommen. Bitte diesen stornieren !!!",Bezahlt
+"Warendorfer Straße 49",Sonntag,Verkauft,"Sadettin Topaloglu (Privat_anlieger)",1613,30€,3m,"0,6m",,,,,,,"Ich habe schon mit dem Benutzernamen: big_king_89@web.de den Betrag von 30€ … dort habe ich wieso auch immer die Standnummer 149 reserviert bekommen. Bitte diesen stornieren !!!",Bezahlt
+"Warendorfer Straße 47",Samstag,Verkauft,"Jana Wolff (Privat_troedel)",1714,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 47",Sonntag,Verkauft,"Jana Wolff (Privat_troedel)",1714,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 45",Samstag,Verkauft,"Jana Wolff (Privat_troedel)",1714,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 45",Sonntag,Verkauft,"Jana Wolff (Privat_troedel)",1714,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 43",Samstag,Verkauft,"Heike Pusdrowski (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 43",Sonntag,Verkauft,"Heike Pusdrowski (Privat_troedel)",1491,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 41",Samstag,Verkauft,"Anja Voß (Privat_anlieger)",1501,15€,3m,"0,6m",,,,,,,"Wer hat diesen Stand am Sonntag gebucht , es kann doch nicht sein das jemand ihn vor mir buchen konnte?","Zahlung ausstehend"
+"Warendorfer Straße 41",Sonntag,Verkauft,"Anja Voß (Privat_anlieger)",1491,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 33",Samstag,Verkauft,"Christian Weiser (Privat_anlieger)",1531,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 33",Sonntag,Verkauft,"Christian Weiser (Privat_anlieger)",1531,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 31",Samstag,Verkauft,"Christin Tewes (Privat_anlieger)",1551,30€,3m,"0,6m",,,,,,,"Wir versuchen seit Samstag die Stände für die Warendorfer Straße 33 und 31 zu buchen. Dies sind insgesamt 7 Stände. Hausnr 33 ist nicht verfügbar und Hausnr 31 können wir nur einmal buchen. Bitte um Erläuterung bzw. entsprechende Buchungen.
+Mit freundlichen Gruß",Bezahlt
+"Warendorfer Straße 31",Sonntag,Verkauft,"Christin Tewes (Privat_anlieger)",1551,30€,3m,"0,6m",,,,,,,"Wir versuchen seit Samstag die Stände für die Warendorfer Straße 33 und 31 zu buchen. Dies sind insgesamt 7 Stände. Hausnr 33 ist nicht verfügbar und Hausnr 31 können wir nur einmal buchen. Bitte um Erläuterung bzw. entsprechende Buchungen.
+Mit freundlichen Gruß",Bezahlt
+"Warendorfer Straße 29",Samstag,Verkauft,"Thomas Bisping (Privat_troedel)",1681,30€,3m,"0,6m",,,,,,,"Wir würden gerne die Möglichkeit haben einen Pavillion aufzubauen.",Bezahlt
+"Warendorfer Straße 29",Sonntag,Verkauft,"Thomas Bisping (Privat_troedel)",1681,30€,3m,"0,6m",,,,,,,"Wir würden gerne die Möglichkeit haben einen Pavillion aufzubauen.",Bezahlt
+"Warendorfer Straße 27",Samstag,Verkauft,"Melanie Nölle-Wekeiser (Privat_troedel)",1880,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 27",Sonntag,Verkauft,"Melanie Nölle-Wekeiser (Privat_troedel)",1880,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 25",Samstag,Verkauft,"Melanie Nölle-Wekeiser (Privat_troedel)",1668,30€,3m,"0,6m",,,,,,,.,Bezahlt
+"Warendorfer Straße 25",Sonntag,Verkauft,"Melanie Nölle-Wekeiser (Privat_troedel)",1668,30€,3m,"0,6m",,,,,,,.,Bezahlt
+"Warendorfer Straße 23",Samstag,Verkauft,"Lisa Nienberg (Privat_anlieger)",1844,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 23",Sonntag,Verkauft,"Lisa Nienberg (Privat_anlieger)",1881,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Warendorfer Straße 21",Samstag,Angefragt,"Lutz Woge (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 21",Sonntag,Angefragt,"Lutz Woge (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 19",Samstag,Verkauft,"Burchard Röhrs (Mitglieder)",1812,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 19",Sonntag,Verkauft,"Burchard Röhrs (Mitglieder)",1812,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 17",Samstag,Verkauft,"Burchard Röhrs (Mitglieder)",1812,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 17",Sonntag,Verkauft,"Burchard Röhrs (Mitglieder)",1812,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 15",Samstag,Verkauft,"Kai Zimmermann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 15",Sonntag,Verkauft,"Kai Zimmermann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 13",Samstag,Verkauft,"Burchard Röhrs (Mitglieder)",1812,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 13",Sonntag,Verkauft,"Burchard Röhrs (Mitglieder)",1812,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Warendorfer Straße 11",Samstag,Verkauft,"Kai Zimmermann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 11",Sonntag,Verkauft,"Kai Zimmermann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Warendorfer Straße 9",Samstag,Verkauft,"Dorothea Pries (Privat_troedel)",1622,30€,3m,"0,6m",,,,,,,"Gerne unter Dach direkt an der Kreuzung",Bezahlt
+"Warendorfer Straße 9",Sonntag,Verkauft,"Dorothea Pries (Privat_troedel)",1622,30€,3m,"0,6m",,,,,,,"Gerne unter Dach direkt an der Kreuzung",Bezahlt
+"Warendorfer Straße 7",Samstag,Verkauft,"Dorothea Pries (Privat_troedel)",1622,30€,3m,"0,6m",,,,,,,"Gerne unter Dach direkt an der Kreuzung",Bezahlt
+"Warendorfer Straße 7",Sonntag,Verkauft,"Dorothea Pries (Privat_troedel)",1622,30€,3m,"0,6m",,,,,,,"Gerne unter Dach direkt an der Kreuzung",Bezahlt
+"Warendorfer Straße 5",Samstag,Verkauft,"Dorothea Pries (Privat_troedel)",1622,30€,3m,"0,6m",,,,,,,"Gerne unter Dach direkt an der Kreuzung",Bezahlt
+"Warendorfer Straße 5",Sonntag,Verkauft,"Dorothea Pries (Privat_troedel)",1622,30€,3m,"0,6m",,,,,,,"Gerne unter Dach direkt an der Kreuzung",Bezahlt
+"Warendorfer Straße 3",Samstag,Verkauft,"Dorothea Pries (Privat_troedel)",1622,30€,3m,"0,6m",,,,,,,"Gerne unter Dach direkt an der Kreuzung",Bezahlt
+"Warendorfer Straße 3",Sonntag,Verkauft,"Dorothea Pries (Privat_troedel)",1622,30€,3m,"0,6m",,,,,,,"Gerne unter Dach direkt an der Kreuzung",Bezahlt
+"Warendorfer Straße  1",Samstag,Verkauft,"zlatko trajkovski (Privat_anlieger)",1571,30€,3m,"0,6m",,,,,,,,Storniert/Fehlgeschlagen
+"Warendorfer Straße  1",Sonntag,Verkauft,"zlatko trajkovski (Privat_anlieger)",1571,30€,3m,"0,6m",,,,,,,,Storniert/Fehlgeschlagen
+"Industriestraße 228",Samstag,Verkauft,"Anne Beckervordersandforth (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 228",Sonntag,Frei,"Anne Beckervordersandforth (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 216",Samstag,Verkauft,"Markus Altefrohne (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 216",Sonntag,Verkauft,"Markus Altefrohne (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 214",Samstag,Verkauft,"Markus Altefrohne (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 214",Sonntag,Verkauft,"Markus Altefrohne (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 212",Samstag,Verkauft,"Benjamin Brinkmann (Privat_anlieger)",1516,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 212",Sonntag,Frei,"Benjamin Brinkmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 210",Samstag,Verkauft,"Benjamin Brinkmann (Privat_anlieger)",1516,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 210",Sonntag,Frei,"Benjamin Brinkmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 208",Samstag,Verkauft,"Benjamin Brinkmann (Privat_anlieger)",1516,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 208",Sonntag,Frei,"Benjamin Brinkmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 206",Samstag,Verkauft,"Benjamin Brinkmann (Privat_anlieger)",1516,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 206",Sonntag,Verkauft,"Benjamin Brinkmann (Privat_anlieger)",1772,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 204",Samstag,Verkauft,"Benjamin Brinkmann (Privat_anlieger)",1516,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 204",Sonntag,Verkauft,"Benjamin Brinkmann (Privat_anlieger)",1772,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 200",Samstag,Verkauft,"Sabine Kleine (Privat_anlieger)",1520,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 200",Sonntag,Verkauft,"Sabine Kleine (Privat_anlieger)",1520,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 198",Samstag,Verkauft,"Sabine Kleine (Privat_anlieger)",1521,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 198",Sonntag,Verkauft,"Sabine Kleine (Privat_anlieger)",1521,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 196",Samstag,Verkauft,"Anne Peveling (Privat_troedel)",1670,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 196",Sonntag,Verkauft,"Anne Peveling (Privat_troedel)",1522,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 194",Samstag,Verkauft,"Beate König (Privat_anlieger)",1614,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 194",Sonntag,Verkauft,"Beate König (Privat_anlieger)",1523,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 192",Samstag,Verkauft,"Nina Heisterkamp (Privat_troedel)",1739,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 192",Sonntag,Verkauft,"Nina Heisterkamp (Privat_troedel)",1894,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 188",Samstag,Verkauft,"Lambertus Bütfering (Privat_anlieger)",1497,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 188",Sonntag,Verkauft,"Lambertus Bütfering (Privat_anlieger)",1497,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 186",Samstag,Verkauft,"Julia Köhring (Privat_anlieger)",1639,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 186",Sonntag,Frei,"Julia Köhring (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 184",Samstag,Verkauft,"Julia Köhring (Privat_anlieger)",1617,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 184",Sonntag,Frei,"Julia Köhring (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 182",Samstag,Verkauft,"Julia Köhring (Privat_anlieger)",1617,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 182",Sonntag,Frei,"Julia Köhring (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 180",Samstag,Verkauft,"Lambertus Bütfering (Privat_anlieger)",1499,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 180",Sonntag,Frei,"Lambertus Bütfering (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 178",Samstag,Verkauft,"Lambertus Bütfering (Privat_anlieger)",1499,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 178",Sonntag,Frei,"Lambertus Bütfering (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 176",Samstag,Verkauft,"Lambertus Bütfering (Privat_anlieger)",1498,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 176",Sonntag,Frei,"Lambertus Bütfering (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 174",Samstag,Verkauft,"Lambertus Bütfering (Privat_anlieger)",1498,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 174",Sonntag,Frei,"Lambertus Bütfering (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 172",Samstag,Verkauft,"Mechthild Bieckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 172",Sonntag,Verkauft,"Mechthild Bieckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 168",Samstag,Verkauft,"Geva Hustert (Privat_anlieger)",1526,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 168",Sonntag,Frei,"Geva Hustert (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 166",Samstag,Verkauft,"Geva Hustert (Privat_anlieger)",1526,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 166",Sonntag,Frei,"Geva Hustert (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 164",Samstag,Verkauft,"Geva Hustert (Privat_anlieger)",1526,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 164",Sonntag,Frei,"Geva Hustert (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 162",Samstag,Verkauft,"Geva Hustert (Privat_anlieger)",1526,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 162",Sonntag,Frei,"Geva Hustert (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 160",Samstag,Verkauft,"Geva Hustert (Privat_anlieger)",1526,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 160",Sonntag,Frei,"Geva Hustert (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 158",Samstag,Verkauft,"Anja Luchtefeld (Privat_troedel)",1645,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 158",Sonntag,Frei,"Anja Luchtefeld (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 150",Samstag,Verkauft,"Anja Luchtefeld (Privat_troedel)",1684,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 150",Sonntag,Frei,"Anja Luchtefeld (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 148",Samstag,Verkauft,"Anja Luchtefeld (Privat_troedel)",1645,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 148",Sonntag,Frei,"Anja Luchtefeld (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 146",Samstag,Verkauft,"Peter Voges (Privat_troedel)",1694,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 146",Sonntag,Verkauft,"Peter Voges (Privat_troedel)",1694,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 142",Samstag,Verkauft,"Pia Westhues (Privat_anlieger)",1605,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 142",Sonntag,Frei,"Pia Westhues (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 140",Samstag,Verkauft,"Pia Westhues (Privat_anlieger)",1605,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 140",Sonntag,Frei,"Pia Westhues (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 138",Samstag,Verkauft,"Pia Westhues (Privat_anlieger)",1605,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 138",Sonntag,Frei,"Pia Westhues (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 136",Samstag,Verkauft,"Pia Westhues (Privat_anlieger)",1605,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 136",Sonntag,Verkauft,"Pia Westhues (Privat_anlieger)",1925,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Industriestraße 134",Samstag,Verkauft,"Anne Peveling (Privat_troedel)",1679,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 134",Sonntag,Verkauft,"Anne Peveling (Privat_troedel)",1925,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Industriestraße 132",Samstag,Verkauft,"Katharina Kluger (Privat_troedel)",1673,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 132",Sonntag,Verkauft,"Katharina Kluger (Privat_troedel)",1893,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 126",Samstag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 126",Sonntag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 124",Samstag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 124",Sonntag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 122",Samstag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 122",Sonntag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 120",Samstag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 120",Sonntag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 118",Samstag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 118",Sonntag,Verkauft,"Andreas Rohling (Privat_anlieger)",1509,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 116",Samstag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 116",Sonntag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 114",Samstag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 114",Sonntag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 112",Samstag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 112",Sonntag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 110",Samstag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 110",Sonntag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 108",Samstag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 108",Sonntag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 106",Samstag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 106",Sonntag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 104",Samstag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 104",Sonntag,Verkauft,"Benedikt Meyer (Mitglieder)",1803,0€,3m,2m,Nein,Nein,Nein,Nein,,,,Bezahlt
+"Industriestraße 103",Samstag,Verkauft,"Franziska Reger (Privat_troedel)",1733,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 103",Sonntag,Verkauft,"Franziska Reger (Privat_troedel)",1916,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Industriestraße 86",Samstag,"Reserviert (Admin)","Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 86",Sonntag,"Reserviert (Admin)","Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 84",Samstag,"Reserviert (Admin)","Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 84",Sonntag,"Reserviert (Admin)","Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 82",Samstag,"Reserviert (Admin)","Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 82",Sonntag,"Reserviert (Admin)","Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 80",Samstag,"Reserviert (Admin)","Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 80",Sonntag,"Reserviert (Admin)","Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 56",Samstag,"Reserviert (Admin)","Bernd Kieskemper (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 56",Sonntag,"Reserviert (Admin)","Bernd Kieskemper (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 54",Samstag,"Reserviert (Admin)","Bernd Kieskemper (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 54",Sonntag,"Reserviert (Admin)","Bernd Kieskemper (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 42",Samstag,Verkauft,"Anika Kersting (Privat_troedel)",1783,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 42",Sonntag,Verkauft,"Anika Kersting (Privat_troedel)",1931,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 40",Samstag,Verkauft,"Anika Kersting (Privat_troedel)",1783,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 40",Sonntag,Verkauft,"Anika Kersting (Privat_troedel)",1931,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 38",Samstag,Verkauft,"Anika Kersting (Privat_troedel)",1789,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 38",Sonntag,Verkauft,"Anika Kersting (Privat_troedel)",1931,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 36",Samstag,Verkauft,"Jana Michalzik (Privat_troedel)",1688,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 36",Sonntag,Frei,"Jana Michalzik (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 34",Samstag,Verkauft,"Jana Michalzik (Privat_troedel)",1688,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 34",Sonntag,Verkauft,"Jana Michalzik (Privat_troedel)",1870,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 32",Samstag,Verkauft,"Jana Michalzik (Privat_troedel)",1688,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 32",Sonntag,Frei,"Jana Michalzik (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 30",Samstag,Angefragt,"Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 30",Sonntag,Angefragt,"Martin  Altefrohne  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 28",Samstag,Verkauft,"Stefanie Kiskemper (Privat_troedel)",1895,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 28",Sonntag,Frei,"Stefanie Kiskemper (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 26",Samstag,Verkauft,"Anja Friedrich (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 26",Sonntag,Frei,"Anja Friedrich (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 24",Samstag,Verkauft,"Conny Zimmerling (Privat_troedel)",1897,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 24",Sonntag,Frei,"Conny Zimmerling (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 16",Samstag,Verkauft,"Melanie Böhmer (Privat_troedel)",1758,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Industriestraße 16",Sonntag,Frei,"Melanie Böhmer (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 14",Samstag,Verkauft,"Melanie Böhmer (Privat_troedel)",1758,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Industriestraße 14",Sonntag,Frei,"Melanie Böhmer (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 12",Samstag,Verkauft,"Melanie Böhmer (Privat_troedel)",1758,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Industriestraße 12",Sonntag,Frei,"Melanie Böhmer (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 10",Samstag,Verkauft,"Melanie Böhmer (Privat_troedel)",1758,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Industriestraße 10",Sonntag,Verkauft,"Melanie Böhmer (Privat_troedel)",1896,15€,3m,"0,6m",,,,,,,"Wir würden gerne einen Pavillon aufbauen","Zahlung ausstehend"
+"Industriestraße 6",Samstag,Angefragt,"Bernd Kieskemper (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 6",Sonntag,Angefragt,"Bernd Kieskemper (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 4",Samstag,Angefragt,"Raiffeisen-Markt Freckenhorst (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 4",Sonntag,Angefragt,"Raiffeisen-Markt Freckenhorst (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 245",Samstag,Verkauft,"Ralf Röttger (Privat_anlieger)",1484,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 245",Sonntag,Verkauft,"Ralf Röttger (Privat_anlieger)",1484,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 239",Samstag,Verkauft,"Ralf Röttger (Privat_anlieger)",1482,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 239",Sonntag,Verkauft,"Ralf Röttger (Privat_anlieger)",1482,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 237",Samstag,Verkauft,"Ralf Röttger (Privat_anlieger)",1482,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 237",Sonntag,Verkauft,"Ralf Röttger (Privat_anlieger)",1757,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 233",Samstag,Verkauft,"Simon Offers (Privat_troedel)",1658,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 233",Sonntag,Frei,"Simon Offers (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 231",Samstag,Verkauft,"Simon Offers (Privat_troedel)",1658,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 231",Sonntag,Frei,"Simon Offers (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 229",Samstag,Verkauft,"Nesrin Karakoç (Privat_anlieger)",1561,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 229",Sonntag,Frei,"Nesrin Karakoç (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 227",Samstag,Verkauft,"Nesrin Karakoç (Privat_anlieger)",1561,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 227",Sonntag,Frei,"Nesrin Karakoç (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 225",Samstag,Verkauft,"Nesrin Karakoç (Privat_anlieger)",1561,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 225",Sonntag,Frei,"Nesrin Karakoç (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 223",Samstag,Verkauft,"Nicole Teske (Privat_anlieger)",1508,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 223",Sonntag,Frei,"Nicole Teske (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 221",Samstag,Verkauft,"Nesrin Karakoç (Privat_anlieger)",1561,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 221",Sonntag,Frei,"Nesrin Karakoç (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 215",Samstag,Verkauft,"Mechthild Marberg (Privat_anlieger)",1524,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 215",Sonntag,Verkauft,"Mechthild Marberg (Privat_anlieger)",1524,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 213",Samstag,Verkauft,"Mechthild Marberg (Privat_anlieger)",1525,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 213",Sonntag,Frei,"Mechthild Marberg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 201",Samstag,Verkauft,"Tobias Gesell (Privat_troedel)",1637,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 201",Sonntag,Frei,"Tobias Gesell (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 199",Samstag,Verkauft,"Tobias Gesell (Privat_troedel)",1637,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 199",Sonntag,Frei,"Tobias Gesell (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 193",Samstag,Verkauft,"Tobias Gesell (Privat_troedel)",1637,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 193",Sonntag,Frei,"Tobias Gesell (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 191",Samstag,Verkauft,"Anne Peveling (Privat_troedel)",1674,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 191",Sonntag,Frei,"Anne Peveling (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 189",Samstag,Verkauft,"Christel Knoblich-Middendorf (Privat_anlieger)",1476,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 189",Sonntag,Frei,"Christel Knoblich-Middendorf (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 187",Samstag,Verkauft,"Christel Knoblich-Middendorf (Privat_anlieger)",1475,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 187",Sonntag,Verkauft,"Christel Knoblich-Middendorf (Privat_anlieger)",1475,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 175",Samstag,Verkauft,"Mechthild Bieckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 175",Sonntag,Verkauft,"Mechthild Bieckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 173",Samstag,Verkauft,"Mechthild Bieckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 173",Sonntag,Verkauft,"Mechthild Bieckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 171",Samstag,Verkauft,"Mechthild Bieckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 171",Sonntag,Verkauft,"Mechthild Bieckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 165",Samstag,Verkauft,"Matthias Kalthöner (Privat_troedel)",1644,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 165",Sonntag,Frei,"Matthias Kalthöner (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 163",Samstag,Verkauft,"Matthias Kalthöner (Privat_troedel)",1644,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 163",Sonntag,Frei,"Matthias Kalthöner (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 161",Samstag,Verkauft,"Theresa Brökelmann (Privat_troedel)",1718,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 161",Sonntag,Frei,"Theresa Brökelmann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 159",Samstag,Verkauft,"Anja Luchtefeld (Privat_troedel)",1671,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 159",Sonntag,Frei,"Anja Luchtefeld (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 157",Samstag,Verkauft,"Jill Groote (Privat_troedel)",1712,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 157",Sonntag,Frei,"Jill Groote (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 153",Samstag,Verkauft,"Bernd Samson (Privat_troedel)",1627,30€,3m,"0,6m",,,,,,,,Storniert/Fehlgeschlagen
+"Industriestraße 153",Sonntag,Verkauft,"Bernd Samson (Privat_troedel)",1627,30€,3m,"0,6m",,,,,,,,Storniert/Fehlgeschlagen
+"Industriestraße 151",Samstag,Verkauft,"Bernd Samson (Privat_troedel)",1627,30€,3m,"0,6m",,,,,,,,Storniert/Fehlgeschlagen
+"Industriestraße 151",Sonntag,Verkauft,"Bernd Samson (Privat_troedel)",1627,30€,3m,"0,6m",,,,,,,,Storniert/Fehlgeschlagen
+"Industriestraße 149",Samstag,Verkauft,"Bernd Samson (Privat_troedel)",1627,30€,3m,"0,6m",,,,,,,,Storniert/Fehlgeschlagen
+"Industriestraße 149",Sonntag,Verkauft,"Bernd Samson (Privat_troedel)",1627,30€,3m,"0,6m",,,,,,,,Storniert/Fehlgeschlagen
+"Industriestraße 147",Samstag,Verkauft,"Michael Schrick (Privat_troedel)",1649,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 147",Sonntag,Verkauft,"Michael Schrick (Privat_troedel)",1847,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 143",Samstag,Verkauft,"Michael Schrick (Privat_troedel)",1646,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 143",Sonntag,Verkauft,"Michael Schrick (Privat_troedel)",1847,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 141",Samstag,Verkauft,"Michael Schrick (Privat_troedel)",1646,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 141",Sonntag,Verkauft,"Michael Schrick (Privat_troedel)",1732,25€,3m,0.6m,Nein,Nein,Nein,Nein,,"Herstellung von Deko- und Geschenkartikel",,Bezahlt
+"Industriestraße 139",Samstag,Verkauft,"Michael Schrick (Privat_troedel)",1646,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 139",Sonntag,Verkauft,"Michael Schrick (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 133",Samstag,Verkauft,"Anne Peveling (Privat_troedel)",1665,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 133",Sonntag,Verkauft,"Anne Peveling (Privat_troedel)",1664,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 131",Samstag,Verkauft,"Gabi Panknin (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 131",Sonntag,Verkauft,"Gabi Panknin (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 129",Samstag,Verkauft,"Gabi Panknin (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 129",Sonntag,Verkauft,"Gabi Panknin (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 127",Samstag,Verkauft,"Gabi Panknin (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 127",Sonntag,Verkauft,"Gabi Panknin (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 125",Samstag,Verkauft,"Gabi Panknin (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 125",Sonntag,Verkauft,"Gabi Panknin (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 121",Samstag,Verkauft,"Marvin Redeker (Gewerblich)",1826,50€,2m,4m,Nein,Nein,Nein,Nein,,"Antiker Trüffel und alte Bauernsachen ",,Bezahlt
+"Industriestraße 121",Sonntag,Verkauft,"Marvin Redeker (Gewerblich)",1826,50€,2m,4m,Nein,Nein,Nein,Nein,,"Antiker Trüffel und alte Bauernsachen ",,Bezahlt
+"Industriestraße 119",Samstag,Verkauft,"Marvin Redeker (Gewerblich)",1826,50€,2m,4m,Nein,Nein,Nein,Nein,,"Antiker Trüffel und alte Bauernsachen ",,Bezahlt
+"Industriestraße 119",Sonntag,Verkauft,"Marvin Redeker (Gewerblich)",1826,50€,2m,4m,Nein,Nein,Nein,Nein,,"Antiker Trüffel und alte Bauernsachen ",,Bezahlt
+"Industriestraße 117",Samstag,Verkauft,"Maria-Elisabeth Schardien (Schausteller)",1676,75€,3.5m,2.5m,Ja,Ja,Nein,Nein,Mandelwagen,,,Bezahlt
+"Industriestraße 117",Sonntag,Verkauft,"Maria-Elisabeth Schardien (Schausteller)",1676,75€,3.5m,2.5m,Ja,Ja,Nein,Nein,Mandelwagen,,,Bezahlt
+"Industriestraße 115",Samstag,Verkauft,"Maria-Elisabeth Schardien (Schausteller)",1676,75€,3.5m,2.5m,Ja,Ja,Nein,Nein,Mandelwagen,,,Bezahlt
+"Industriestraße 115",Sonntag,Verkauft,"Maria-Elisabeth Schardien (Schausteller)",1676,75€,3.5m,2.5m,Ja,Ja,Nein,Nein,Mandelwagen,,,Bezahlt
+"Industriestraße 103",Samstag,"Reserviert (Admin)",". . (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 103",Sonntag,"Reserviert (Admin)",". . (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 101",Samstag,"Reserviert (Admin)",". . (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 101",Sonntag,"Reserviert (Admin)",". . (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 85",Samstag,"Reserviert (Admin)","Adelheid  Klosterkamp  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 85",Sonntag,"Reserviert (Admin)","Adelheid  Klosterkamp  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 83",Samstag,"Reserviert (Admin)","Adelheid  Klosterkamp  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 83",Sonntag,"Reserviert (Admin)","Adelheid  Klosterkamp  (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 71",Samstag,Verkauft,"Lutz Woge (Mitglieder)",1927,62.5€,3.5m,3m,Ja,Nein,Nein,Nein,,"Energie  und Gesundheit",,Bezahlt
+"Industriestraße 71",Sonntag,Verkauft,"Lutz Woge (Mitglieder)",1927,62.5€,3.5m,3m,Ja,Nein,Nein,Nein,,"Energie  und Gesundheit",,Bezahlt
+"Industriestraße 69",Samstag,Verkauft,"Lutz Woge (Mitglieder)",1927,62.5€,3.5m,3m,Ja,Nein,Nein,Nein,,"Energie  und Gesundheit",,Bezahlt
+"Industriestraße 69",Sonntag,Verkauft,"Lutz Woge (Mitglieder)",1927,62.5€,3.5m,3m,Ja,Nein,Nein,Nein,,"Energie  und Gesundheit",,Bezahlt
+"Industriestraße 67",Samstag,Verkauft,"Rainer Mertens (Gewerblich)",1825,75€,3m,"0,60m",Ja,Nein,Nein,Nein,,"Suritec Frühwarnsystem -zeitgemäßer Einbruchschutz-","Meine Stand hat folgende Maße: Breite 3 m, Tiefe 3 m.",Bezahlt
+"Industriestraße 67",Sonntag,Verkauft,"Rainer Mertens (Gewerblich)",1825,75€,3m,"0,60m",Ja,Nein,Nein,Nein,,"Suritec Frühwarnsystem -zeitgemäßer Einbruchschutz-","Meine Stand hat folgende Maße: Breite 3 m, Tiefe 3 m.",Bezahlt
+"Industriestraße 53",Samstag,Verkauft,"Fredi Stummer (Schausteller)",1729,75€,3m,3.5m,Ja,Ja,Nein,Nein,Crepes,,,Bezahlt
+"Industriestraße 53",Sonntag,Verkauft,"Fredi Stummer (Schausteller)",1729,75€,3m,3.5m,Ja,Ja,Nein,Nein,Crepes,,,Bezahlt
+"Industriestraße 51",Samstag,Verkauft,"Fredi Stummer (Schausteller)",1729,75€,3m,3.5m,Ja,Ja,Nein,Nein,Crepes,,,Bezahlt
+"Industriestraße 51",Sonntag,Verkauft,"Fredi Stummer (Schausteller)",1729,75€,3m,3.5m,Ja,Ja,Nein,Nein,Crepes,,,Bezahlt
+"Industriestraße 27",Samstag,Verkauft,"Martina Daniels (Privat_troedel)",1721,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 27",Sonntag,Verkauft,"Martina Daniels (Privat_troedel)",1721,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 25",Samstag,Verkauft,"Joelle Lichtenberg (Privat_anlieger)",1580,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 25",Sonntag,Verkauft,"Joelle Lichtenberg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 9",Samstag,Verkauft,"Cornelia Sawitzki (Privat_troedel)",1866,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 9",Sonntag,Verkauft,"Cornelia Sawitzki (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 7",Samstag,Verkauft,"Andrea Buchwald (Privat_troedel)",1654,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 7",Sonntag,Verkauft,"Andrea Buchwald (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 5",Samstag,Verkauft,"Andrea Buchwald (Privat_troedel)",1654,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 5",Sonntag,Verkauft,"Andrea Buchwald (Privat_troedel)",1774,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Industriestraße 3",Samstag,Verkauft,"Andrea Buchwald (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 3",Sonntag,Verkauft,"Andrea Buchwald (Privat_troedel)",1923,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Industriestraße 1",Samstag,Angefragt,"Michael Eckhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Industriestraße 1",Sonntag,Angefragt,"Michael Eckhoff (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 70",Samstag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 70",Sonntag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 68",Samstag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 68",Sonntag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 66",Samstag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 66",Sonntag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 64",Samstag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 64",Sonntag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 58",Samstag,Verkauft,"Helen Schröder (Privat_troedel)",1693,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 58",Sonntag,Verkauft,"Helen Schröder (Privat_troedel)",1693,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 56",Samstag,Verkauft,"Helen Schröder (Privat_troedel)",1693,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 56",Sonntag,Verkauft,"Helen Schröder (Privat_troedel)",1693,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 54",Samstag,Verkauft,"Marina Dell (Privat_troedel)",1652,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 54",Sonntag,Verkauft,"Marina Dell (Privat_troedel)",1708,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 52",Samstag,Verkauft,"Marina Dell (Privat_troedel)",1661,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 52",Sonntag,Verkauft,"Marina Dell (Privat_troedel)",1708,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 46",Samstag,Verkauft,"Fredi Stummer (Schausteller)",1849,75€,2.25m,2.5m,Ja,Ja,Nein,Nein,Crepes,,"Bezahlung nach 14 Tagen durch Urlaub",Bezahlt
+"Gröningsweg 46",Sonntag,Verkauft,"Fredi Stummer (Schausteller)",1849,75€,2.25m,2.5m,Ja,Ja,Nein,Nein,Crepes,,"Bezahlung nach 14 Tagen durch Urlaub",Bezahlt
+"Gröningsweg 44",Samstag,Verkauft,"Fredi Stummer (Schausteller)",1849,75€,2.25m,2.5m,Ja,Ja,Nein,Nein,Crepes,,"Bezahlung nach 14 Tagen durch Urlaub",Bezahlt
+"Gröningsweg 44",Sonntag,Verkauft,"Fredi Stummer (Schausteller)",1849,75€,2.25m,2.5m,Ja,Ja,Nein,Nein,Crepes,,"Bezahlung nach 14 Tagen durch Urlaub",Bezahlt
+"Gröningsweg 42",Samstag,Verkauft,"Ute Arens (Privat_troedel)",1705,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 42",Sonntag,Verkauft,"Ute Arens (Privat_troedel)",1705,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 40",Samstag,Verkauft,"Katja Rose-Großmann (Privat_troedel)",1621,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 40",Sonntag,Verkauft,"Katja Rose-Großmann (Privat_troedel)",1621,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 32",Samstag,Verkauft,"Claudia Schloetmann (Privat_anlieger)",1480,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 32",Sonntag,Verkauft,"Claudia Schloetmann (Privat_anlieger)",1779,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 30",Samstag,Verkauft,"Claudia Schloetmann (Privat_anlieger)",1480,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 30",Sonntag,Frei,"Claudia Schloetmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 28",Samstag,Verkauft,"Claudia Schloetmann (Privat_anlieger)",1480,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 28",Sonntag,Frei,"Claudia Schloetmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 26",Samstag,Verkauft,"Claudia Schloetmann (Privat_anlieger)",1480,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 26",Sonntag,Frei,"Claudia Schloetmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 24",Samstag,Verkauft,"Elena Sacharow (Privat_anlieger)",1598,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 24",Sonntag,Frei,"Elena Sacharow (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 22",Samstag,Verkauft,"Elena Sacharow (Privat_anlieger)",1598,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 22",Sonntag,Frei,"Elena Sacharow (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 20",Samstag,Verkauft,"Elena Sacharow (Privat_anlieger)",1598,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 20",Sonntag,Frei,"Elena Sacharow (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 18",Samstag,Verkauft,"Elena Sacharow (Privat_anlieger)",1598,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 18",Sonntag,Frei,"Elena Sacharow (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 79",Samstag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 79",Sonntag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 77",Samstag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 77",Sonntag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 75",Samstag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 75",Sonntag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 73",Samstag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 73",Sonntag,Verkauft,"Michael Rose (Mitglieder)",1831,43.75€,1.13m,m,Ja,Ja,Nein,Ja,,,,Bezahlt
+"Gröningsweg 67",Samstag,Verkauft,"Lena Bieckmann (Privat_anlieger)",1558,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 67",Sonntag,Verkauft,"Lena Bieckmann (Privat_anlieger)",1558,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 65",Samstag,Verkauft,"Lena Bieckmann (Privat_anlieger)",1558,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 65",Sonntag,Verkauft,"Lena Bieckmann (Privat_anlieger)",1558,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 63",Samstag,Verkauft,"Lena Bieckmann (Privat_anlieger)",1558,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 63",Sonntag,Verkauft,"Lena Bieckmann (Privat_anlieger)",1558,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 61",Samstag,Verkauft,"Nicole Grewing (Privat_troedel)",1672,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 61",Sonntag,Verkauft,"Nicole Grewing (Privat_troedel)",1711,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 59",Samstag,Verkauft,"Else Wenning (Privat_anlieger)",1450,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 59",Sonntag,Verkauft,"Else Wenning (Privat_anlieger)",1752,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 57",Samstag,Verkauft,"Else Wenning (Privat_anlieger)",1451,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 57",Sonntag,Verkauft,"Else Wenning (Privat_anlieger)",1752,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 55",Samstag,Verkauft,"Else Wenning (Privat_anlieger)",1456,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 55",Sonntag,Verkauft,"Else Wenning (Privat_anlieger)",1752,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 53",Samstag,Verkauft,"Britta Wenning-Kral (Privat_anlieger)",1463,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 53",Sonntag,Verkauft,"Britta Wenning-Kral (Privat_anlieger)",1752,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 51",Samstag,Verkauft,"Else Wenning (Privat_anlieger)",1460,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 51",Sonntag,Verkauft,"Else Wenning (Privat_anlieger)",1796,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 49",Samstag,Verkauft,"Dieter Kral (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 49",Sonntag,Verkauft,"Dieter Kral (Privat_anlieger)",1891,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 47",Samstag,Verkauft,"Else Wenning (Privat_anlieger)",1459,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 47",Sonntag,Verkauft,"Else Wenning (Privat_anlieger)",1891,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 45",Samstag,Verkauft,"Britta Wenning-Kral (Privat_anlieger)",1463,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 45",Sonntag,Frei,"Britta Wenning-Kral (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 43",Samstag,Verkauft,"Else Wenning (Privat_anlieger)",1464,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 43",Sonntag,Frei,"Else Wenning (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 41",Samstag,Verkauft,"Stefanie Flatau (Privat_troedel)",1773,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 41",Sonntag,Frei,"Stefanie Flatau (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 39",Samstag,Verkauft,"Angelina Krüger (Privat_troedel)",1647,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 39",Sonntag,Frei,"Angelina Krüger (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 37",Samstag,Verkauft,"Angelina Krüger (Privat_troedel)",1643,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 37",Sonntag,Frei,"Angelina Krüger (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 35",Samstag,Verkauft,"Sarah Althaus (Privat_troedel)",1677,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 35",Sonntag,Frei,"Sarah Althaus (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 33",Samstag,Verkauft,"Nicole Freye (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 33",Sonntag,Verkauft,"Nicole Freye (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 31",Samstag,Verkauft,"Nicole Freye (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 31",Sonntag,Verkauft,"Nicole Freye (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 29",Samstag,Verkauft,"Simone Lammers (Privat_troedel)",1776,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 29",Sonntag,Verkauft,"Simone Lammers (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 27",Samstag,Verkauft,"Lisann Happe (Privat_troedel)",1650,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 27",Sonntag,Frei,"Lisann Happe (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 25",Samstag,Verkauft,"Lisann Happe (Privat_troedel)",1650,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 25",Sonntag,Frei,"Lisann Happe (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gröningsweg 23",Samstag,Verkauft,"Irmgard Baumjohann (Privat_troedel)",1655,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 23",Sonntag,Verkauft,"Irmgard Baumjohann (Privat_troedel)",1885,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 21",Samstag,Verkauft,"Irmgard Baumjohann (Privat_troedel)",1655,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gröningsweg 21",Sonntag,Verkauft,"Irmgard Baumjohann (Privat_troedel)",1885,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 30",Samstag,Verkauft,"Marie Schulze Wartenhorst (Privat_troedel)",1843,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 30",Sonntag,Verkauft,"Marie Schulze Wartenhorst (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 28",Samstag,Verkauft,"Marie Schulze Wartenhorst (Privat_troedel)",1843,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 28",Sonntag,Verkauft,"Marie Schulze Wartenhorst (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 26",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 26",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 18",Samstag,Verkauft,"Frank Hitziger (Privat_troedel)",1713,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 18",Sonntag,Frei,"Frank Hitziger (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 16",Samstag,Verkauft,"Frank Hitziger (Privat_troedel)",1713,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 16",Sonntag,Verkauft,"Frank Hitziger (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 14",Samstag,Verkauft,"Frank Hitziger (Privat_troedel)",1713,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 14",Sonntag,Verkauft,"Frank Hitziger (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 12",Samstag,Verkauft,"Patrick Spolder (Gewerblich)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 12",Sonntag,Verkauft,"Patrick Spolder (Gewerblich)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 10",Samstag,Verkauft,"Evelyn Reimer (Privat_troedel)",1934,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 10",Sonntag,Verkauft,"Evelyn Reimer (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 8",Samstag,Verkauft,"Marie Rabener (Privat_troedel)",1875,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gevastraße 8",Sonntag,Verkauft,"Marie Rabener (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 6",Samstag,Verkauft,"Marie Rabener (Privat_troedel)",1875,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gevastraße 6",Sonntag,Verkauft,"Marie Rabener (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 23",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 23",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 21",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Gevastraße 21",Sonntag,Verkauft,"Kein Kunde",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 19",Samstag,Verkauft,"Simone Keitemeyer (Privat_troedel)",1908,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 19",Sonntag,Verkauft,"Simone Keitemeyer (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 17",Samstag,Verkauft,"Simone Keitemeyer (Privat_troedel)",1908,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 17",Sonntag,Verkauft,"Simone Keitemeyer (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 15",Samstag,Verkauft,"Charlotte Hengemann (Privat_troedel)",1935,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 15",Sonntag,Verkauft,"Charlotte Hengemann (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 13",Samstag,Verkauft,"Charlotte Hengemann (Privat_troedel)",1935,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 13",Sonntag,Verkauft,"Charlotte Hengemann (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 9",Samstag,Verkauft,"Diana Niewöhner (Privat_troedel)",1838,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 9",Sonntag,Verkauft,"Diana Niewöhner (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 7",Samstag,Verkauft,"Diana Niewöhner (Privat_troedel)",1838,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 7",Sonntag,Verkauft,"Diana Niewöhner (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 5",Samstag,Verkauft,"Kerstin Renneke (Privat_troedel)",1882,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße 5",Sonntag,Verkauft,"Kerstin Renneke (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße 3",Samstag,Verkauft,"Claudia Schulte (Privat_troedel)",1913,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gevastraße 3",Sonntag,Verkauft,"Claudia Schulte (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gevastraße  1",Samstag,Verkauft,"Christian Otten (Privat_troedel)",1761,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gevastraße  1",Sonntag,Verkauft,"Christian Otten (Privat_troedel)",1791,0€,4.55m,3.5m,Ja,Ja,Nein,Nein,,Gemischt,,"Zahlung ausstehend"
+"Gänsestraße 138",Samstag,Verkauft,"Caio Finkener (Privat_anlieger)",1502,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 138",Sonntag,Verkauft,"Caio Finkener (Privat_anlieger)",1502,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 136",Samstag,Verkauft,"Caio Finkener (Privat_anlieger)",1502,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 136",Sonntag,Verkauft,"Caio Finkener (Privat_anlieger)",1502,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 132",Samstag,Verkauft,"Tanja Niewöhner (Privat_troedel)",1769,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 132",Sonntag,Frei,"Tanja Niewöhner (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 128",Samstag,Verkauft,"Katharina Zurwieden (Privat_anlieger)",1467,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 128",Sonntag,Verkauft,"Katharina Zurwieden (Privat_anlieger)",1467,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 126",Samstag,Verkauft,"Katharina Zurwieden (Privat_anlieger)",1467,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 126",Sonntag,Verkauft,"Katharina Zurwieden (Privat_anlieger)",1467,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 124",Samstag,Verkauft,"Katharina Zurwieden (Privat_anlieger)",1467,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 124",Sonntag,Verkauft,"Katharina Zurwieden (Privat_anlieger)",1467,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 122",Samstag,Verkauft,"Martin Harbert (Privat_troedel)",1704,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 122",Sonntag,Frei,"Martin Harbert (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 120",Samstag,Verkauft,"Monika Abeling (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 120",Sonntag,Verkauft,"Monika Abeling (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 114",Samstag,Verkauft,"Ann Christin Brameier (Privat_troedel)",1719,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 114",Sonntag,Verkauft,"Ann Christin Brameier (Privat_troedel)",1878,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 112",Samstag,Verkauft,"Ann Christin Brameier (Privat_troedel)",1719,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 112",Sonntag,Verkauft,"Ann Christin Brameier (Privat_troedel)",1877,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 110",Samstag,Verkauft,"Christian Hälker (Privat_anlieger)",1560,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 110",Sonntag,Frei,"Christian Hälker (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 108",Samstag,Verkauft,"Christian Hälker (Privat_anlieger)",1560,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 108",Sonntag,Frei,"Christian Hälker (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 104",Samstag,Verkauft,"Thomas Feldmann (Privat_troedel)",1716,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 104",Sonntag,Frei,"Thomas Feldmann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 102",Samstag,Verkauft,"Thomas Feldmann (Privat_troedel)",1716,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 102",Sonntag,Frei,"Thomas Feldmann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 82",Samstag,Verkauft,"Otto Tenner (Schausteller)",1832,62.5€,4m,m,Ja,Nein,Ja,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 82",Sonntag,Verkauft,"Otto Tenner (Schausteller)",1832,62.5€,4m,m,Ja,Nein,Ja,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 80",Samstag,Verkauft,"Otto Tenner (Schausteller)",1832,62.5€,4m,m,Ja,Nein,Ja,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 80",Sonntag,Verkauft,"Otto Tenner (Schausteller)",1832,62.5€,4m,m,Ja,Nein,Ja,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 78",Samstag,Verkauft,"Otto Tenner (Schausteller)",1832,62.5€,4m,m,Ja,Nein,Ja,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 78",Sonntag,Verkauft,"Otto Tenner (Schausteller)",1832,62.5€,4m,m,Ja,Nein,Ja,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 76",Samstag,Verkauft,"Otto Tenner (Schausteller)",1832,62.5€,4m,m,Ja,Nein,Ja,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 76",Sonntag,Verkauft,"Otto Tenner (Schausteller)",1832,62.5€,4m,m,Ja,Nein,Ja,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 72",Samstag,Verkauft,"Rike Suntrup (Privat_anlieger)",1587,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 72",Sonntag,Frei,"Rike Suntrup (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 70",Samstag,Verkauft,"Tanja Bürgel (Privat_anlieger)",1615,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 70",Sonntag,Verkauft,"Tanja Bürgel (Privat_anlieger)",1615,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 68",Samstag,Verkauft,"Tanja Bürgel (Privat_anlieger)",1615,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 68",Sonntag,Verkauft,"Tanja Bürgel (Privat_anlieger)",1615,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 64",Samstag,Verkauft,"Nadine Ritz (Privat_troedel)",1737,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gänsestraße 64",Sonntag,Frei,"Nadine Ritz (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 58",Samstag,Verkauft,"Katrin Ittmann (Privat_anlieger)",1507,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 58",Sonntag,Frei,"Katrin Ittmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 56",Samstag,Verkauft,"Katrin Ittmann (Privat_anlieger)",1507,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 56",Sonntag,Frei,"Katrin Ittmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 54",Samstag,Verkauft,"Katrin Ittmann (Privat_anlieger)",1507,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 54",Sonntag,Frei,"Katrin Ittmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 52",Samstag,Verkauft,"Nadine Berneis/Möllenbeck (Privat_anlieger)",1519,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 52",Sonntag,Verkauft,"Nadine Berneis/Möllenbeck (Privat_anlieger)",1905,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gänsestraße 50",Samstag,Verkauft,"Elke Krewerth (Privat_troedel)",1734,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 50",Sonntag,Verkauft,"Elke Krewerth (Privat_troedel)",1734,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 48",Samstag,Verkauft,"Elke Krewerth (Privat_troedel)",1734,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 48",Sonntag,Verkauft,"Elke Krewerth (Privat_troedel)",1734,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 46",Samstag,Verkauft,"Elke Krewerth (Privat_troedel)",1734,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 46",Sonntag,Verkauft,"Elke Krewerth (Privat_troedel)",1734,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 44",Samstag,Verkauft,"Elke Krewerth (Privat_troedel)",1734,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 44",Sonntag,Verkauft,"Elke Krewerth (Privat_troedel)",1734,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 38",Samstag,Verkauft,"Ute Wicht (Privat_anlieger)",1504,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 38",Sonntag,Verkauft,"Ute Wicht (Privat_anlieger)",1504,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 36",Samstag,Verkauft,"Stefanie Meinert (Privat_troedel)",1755,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 36",Sonntag,Verkauft,"Stefanie Meinert (Privat_troedel)",1765,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 34",Samstag,Verkauft,"Michael Krampe (Privat_anlieger)",1591,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 34",Sonntag,Verkauft,"Michael Krampe (Privat_anlieger)",1591,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 32",Samstag,Verkauft,"Michael Krampe (Privat_anlieger)",1590,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 32",Sonntag,Verkauft,"Michael Krampe (Privat_anlieger)",1590,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 30",Samstag,Verkauft,"Michael Krampe (Privat_anlieger)",1589,30€,3m,"0,6m",,,,,,,"Ich möchte einen zweiten Stand buchen. Geht das?",Bezahlt
+"Gänsestraße 30",Sonntag,Verkauft,"Michael Krampe (Privat_anlieger)",1589,30€,3m,"0,6m",,,,,,,"Ich möchte einen zweiten Stand buchen. Geht das?",Bezahlt
+"Gänsestraße 28",Samstag,Verkauft,"Daniela Schreiner (Privat_anlieger)",1465,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 28",Sonntag,Verkauft,"Daniela Schreiner (Privat_anlieger)",1465,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 12",Samstag,Verkauft,"Admir Bahonjic (Verein)",1828,150€,5m,m,Ja,Ja,Ja,Ja,,,,"Zahlung ausstehend"
+"Gänsestraße 12",Sonntag,Verkauft,"Admir Bahonjic (Verein)",1828,150€,5m,m,Ja,Ja,Ja,Ja,,,,"Zahlung ausstehend"
+"Gänsestraße 10",Samstag,Verkauft,"Admir Bahonjic (Verein)",1828,150€,5m,m,Ja,Ja,Ja,Ja,,,,"Zahlung ausstehend"
+"Gänsestraße 10",Sonntag,Verkauft,"Admir Bahonjic (Verein)",1828,150€,5m,m,Ja,Ja,Ja,Ja,,,,"Zahlung ausstehend"
+"Gänsestraße 8",Samstag,Verkauft,"Admir Bahonjic (Verein)",1828,150€,5m,m,Ja,Ja,Ja,Ja,,,,"Zahlung ausstehend"
+"Gänsestraße 8",Sonntag,Verkauft,"Admir Bahonjic (Verein)",1828,150€,5m,m,Ja,Ja,Ja,Ja,,,,"Zahlung ausstehend"
+"Gänsestraße 6",Samstag,Verkauft,"Admir Bahonjic (Verein)",1835,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 6",Sonntag,Verkauft,"Admir Bahonjic (Verein)",1835,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 4",Samstag,Verkauft,"Admir Bahonjic (Verein)",1828,150€,5m,m,Ja,Ja,Ja,Ja,,,,"Zahlung ausstehend"
+"Gänsestraße 4",Sonntag,Verkauft,"Admir Bahonjic (Verein)",1828,150€,5m,m,Ja,Ja,Ja,Ja,,,,"Zahlung ausstehend"
+"Gänsestraße 135",Samstag,Verkauft,"Alissa Jäschke (Privat_troedel)",1659,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 135",Sonntag,Verkauft,"Alissa Jäschke (Privat_troedel)",1861,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 133",Samstag,Verkauft,"Alissa Jäschke (Privat_troedel)",1659,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 133",Sonntag,Verkauft,"Alissa Jäschke (Privat_troedel)",1861,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 131",Samstag,Verkauft,"Alissa Jäschke (Privat_troedel)",1659,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 131",Sonntag,Verkauft,"Alissa Jäschke (Privat_troedel)",1861,0€,3m,m,Nein,Nein,Nein,Nein,,,,"Zahlung ausstehend"
+"Gänsestraße 129",Samstag,Verkauft,"Bernd Samson (Privat_troedel)",1636,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 129",Sonntag,Verkauft,"Bernd Samson (Privat_troedel)",1636,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 127",Samstag,Verkauft,"Bernd Samson (Privat_troedel)",1636,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 127",Sonntag,Verkauft,"Bernd Samson (Privat_troedel)",1636,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 125",Samstag,Verkauft,"Bernd Samson (Privat_troedel)",1636,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 125",Sonntag,Verkauft,"Bernd Samson (Privat_troedel)",1636,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 121",Samstag,Verkauft,"Franz Luchtefeld (Privat_anlieger)",1506,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 121",Sonntag,Verkauft,"Franz Luchtefeld (Privat_anlieger)",1888,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gänsestraße 119",Samstag,Verkauft,"Franz Luchtefeld (Privat_anlieger)",1506,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 119",Sonntag,Verkauft,"Franz Luchtefeld (Privat_anlieger)",1888,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gänsestraße 117",Samstag,Verkauft,"Franz Luchtefeld (Privat_anlieger)",1506,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 117",Sonntag,Verkauft,"Franz Luchtefeld (Privat_anlieger)",1888,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gänsestraße 113",Samstag,Verkauft,"Bettina Opitz (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 113",Sonntag,Verkauft,"Bettina Opitz (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 111",Samstag,Verkauft,"Bettina Opitz (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 111",Sonntag,Verkauft,"Bettina Opitz (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 109",Samstag,Verkauft,"Bettina Opitz (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 109",Sonntag,Frei,"Bettina Opitz (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 107",Samstag,Verkauft,"Bettina Opitz (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 107",Sonntag,Verkauft,"Bettina Opitz (Privat_anlieger)",1834,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 105",Samstag,Verkauft,"Bettina Opitz (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 105",Sonntag,Verkauft,"Bettina Opitz (Privat_anlieger)",1834,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 99",Samstag,Verkauft,"Dieter Nienberg (Privat_anlieger)",1552,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 99",Sonntag,Verkauft,"Dieter Nienberg (Privat_anlieger)",1902,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gänsestraße 97",Samstag,Verkauft,"Dieter Nienberg (Privat_anlieger)",1552,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 97",Sonntag,Verkauft,"Dieter Nienberg (Privat_anlieger)",1901,15€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Gänsestraße 95",Samstag,Verkauft,"Dieter Nienberg (Privat_anlieger)",1552,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 95",Sonntag,Frei,"Dieter Nienberg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 89",Samstag,Verkauft,"Markus Klaas (Privat_troedel)",1682,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 89",Sonntag,Frei,"Markus Klaas (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 87",Samstag,Verkauft,"Markus Klaas (Privat_troedel)",1682,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 87",Sonntag,Frei,"Markus Klaas (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 83",Samstag,Verkauft,"Nicole Redenz (Privat_troedel)",1680,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 83",Sonntag,Frei,"Nicole Redenz (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 81",Samstag,Verkauft,"Sybille Koch (Privat_anlieger)",1512,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 81",Sonntag,Verkauft,"Sybille Koch (Privat_anlieger)",1512,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 79",Samstag,Verkauft,"Sybille Koch (Privat_anlieger)",1512,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 79",Sonntag,Verkauft,"Sybille Koch (Privat_anlieger)",1512,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 77",Samstag,Verkauft,"Sybille Koch (Privat_anlieger)",1512,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 77",Sonntag,Verkauft,"Sybille Koch (Privat_anlieger)",1512,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 75",Samstag,Verkauft,"Sybille Koch (Privat_anlieger)",1512,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 75",Sonntag,Verkauft,"Sybille Koch (Privat_anlieger)",1512,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 73",Samstag,Verkauft,"Ingrid Buller (Privat_troedel)",1763,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 73",Sonntag,Frei,"Ingrid Buller (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 71",Samstag,Verkauft,"Theo Günnewig (Privat_anlieger)",1518,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 71",Sonntag,Frei,"Theo Günnewig (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 69",Samstag,Verkauft,"Judith Gembries (Privat_troedel)",1692,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 69",Sonntag,Frei,"Judith Gembries (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 67",Samstag,Verkauft,"Judith Gembries (Privat_troedel)",1692,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 67",Sonntag,Frei,"Judith Gembries (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 65",Samstag,Verkauft,"Sarah Galbraith (Privat_troedel)",1744,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 65",Sonntag,Frei,"Sarah Galbraith (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 63",Samstag,Verkauft,"Sarah Galbraith (Privat_troedel)",1744,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 63",Sonntag,Frei,"Sarah Galbraith (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 61",Samstag,Verkauft,"Vera Kortenbreer (Privat_troedel)",1863,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 61",Sonntag,Frei,"Vera Kortenbreer (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 59",Samstag,Verkauft,"Lina Strenge (Privat_troedel)",1690,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 59",Sonntag,Frei,"Lina Strenge (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 57",Samstag,Verkauft,"Angelika Schwermann (Privat_troedel)",1725,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 57",Sonntag,Verkauft,"Angelika Schwermann (Privat_troedel)",1725,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 55",Samstag,Verkauft,"Angelika Schwermann (Privat_troedel)",1722,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 55",Sonntag,Verkauft,"Angelika Schwermann (Privat_troedel)",1722,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 53",Samstag,Verkauft,"Alexander Brinkmann (Privat_anlieger)",1539,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 53",Sonntag,Frei,"Alexander Brinkmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 51",Samstag,Verkauft,"Alexander Brinkmann (Privat_anlieger)",1495,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 51",Sonntag,Frei,"Alexander Brinkmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 49",Samstag,Verkauft,"Alexander Brinkmann (Privat_anlieger)",1495,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 49",Sonntag,Frei,"Alexander Brinkmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 47",Samstag,Verkauft,"Alexander Brinkmann (Privat_anlieger)",1495,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 47",Sonntag,Frei,"Alexander Brinkmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 41",Samstag,Verkauft,"Christoph Sommer (Gewerblich)",1836,50€,3m,"0,60m",Nein,Nein,Nein,Nein,,"Kerzen, Geschenk, Mitbringsel,  Dekoartikel ",,Bezahlt
+"Gänsestraße 41",Sonntag,Verkauft,"Christoph Sommer (Gewerblich)",1836,50€,3m,"0,60m",Nein,Nein,Nein,Nein,,"Kerzen, Geschenk, Mitbringsel,  Dekoartikel ",,Bezahlt
+"Gänsestraße 39",Samstag,Verkauft,"Henriette Johanshon (Privat_troedel)",1767,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 39",Sonntag,Verkauft,"Henriette Johanshon (Privat_troedel)",1775,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 37",Samstag,Verkauft,"Stefanie Averbeck (Privat_troedel)",1766,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 37",Sonntag,Verkauft,"Stefanie Averbeck (Privat_troedel)",1775,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 35",Samstag,Verkauft,"Nicole Richter (Privat_anlieger)",1496,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 35",Sonntag,Verkauft,"Nicole Richter (Privat_anlieger)",1778,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 33",Samstag,Verkauft,"Nicole Richter (Privat_anlieger)",1473,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 33",Sonntag,Verkauft,"Nicole Richter (Privat_anlieger)",1473,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 31",Samstag,Verkauft,"Nicole Richter (Privat_anlieger)",1473,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 31",Sonntag,Verkauft,"Nicole Richter (Privat_anlieger)",1473,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 29",Samstag,Verkauft,"Ursula Lux (Privat_anlieger)",1500,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 29",Sonntag,Verkauft,"Ursula Lux (Privat_anlieger)",1889,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 27",Samstag,Verkauft,"Ursula Lux (Privat_anlieger)",1500,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 27",Sonntag,Verkauft,"Ursula Lux (Privat_anlieger)",1807,15€,3m,"0,6m",,,,,,,"Diese Stände hatte ich letztes Jahr auch an beiden Tagen( oder?) 😅🙈
+Schade, das es nur Sonntag noch möglich ist.
+Liebe Grüße und noch eine tolle Woche",Bezahlt
+"Gänsestraße 25",Samstag,Verkauft,"Annette Hoegemann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 25",Sonntag,Verkauft,"Annette Hoegemann (Privat_anlieger)",1807,15€,3m,"0,6m",,,,,,,"Diese Stände hatte ich letztes Jahr auch an beiden Tagen( oder?) 😅🙈
+Schade, das es nur Sonntag noch möglich ist.
+Liebe Grüße und noch eine tolle Woche",Bezahlt
+"Gänsestraße 23",Samstag,Verkauft,"Melanie Eckel (Privat_troedel)",1701,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 23",Sonntag,Verkauft,"Melanie Eckel (Privat_troedel)",1701,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 21",Samstag,Verkauft,"Jennifer Winterton (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 21",Sonntag,Verkauft,"Jennifer Winterton (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 19",Samstag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 19",Sonntag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 17",Samstag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 17",Sonntag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 15",Samstag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 15",Sonntag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 13",Samstag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 13",Sonntag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 11",Samstag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 11",Sonntag,Verkauft,"Manfred Pelster (Privat_anlieger)",1457,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Gänsestraße 9",Samstag,"Reserviert (Admin)","Team Bürgerhaus (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 9",Sonntag,"Reserviert (Admin)","Team Bürgerhaus (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 7",Samstag,"Reserviert (Admin)","Team Bürgerhaus (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 7",Sonntag,"Reserviert (Admin)","Team Bürgerhaus (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 5",Samstag,"Reserviert (Admin)","Team Bürgerhaus (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 5",Sonntag,"Reserviert (Admin)","Team Bürgerhaus (Verein)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 3",Samstag,"Reserviert (Admin)","Rüdiger Genius (Schausteller)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße 3",Sonntag,"Reserviert (Admin)","Rüdiger Genius (Schausteller)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße  1",Samstag,"Reserviert (Admin)","Rüdiger Genius (Schausteller)",-,-,-,-,-,-,-,-,-,-,-,-
+"Gänsestraße  1",Sonntag,"Reserviert (Admin)","Rüdiger Genius (Schausteller)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 55",Samstag,Verkauft,"Alena Wöstmann (Privat_troedel)",1839,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 55",Sonntag,Frei,"Alena Wöstmann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 53",Samstag,Verkauft,"Nina Strohbücker (Privat_troedel)",1700,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 53",Sonntag,Frei,"Nina Strohbücker (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 51",Samstag,Verkauft,"Nina Strohbücker (Privat_troedel)",1698,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 51",Sonntag,Frei,"Nina Strohbücker (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 49",Samstag,Verkauft,"Doris Thaele-Boehnke (Privat_troedel)",1728,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 49",Sonntag,Verkauft,"Doris Thaele-Boehnke (Privat_troedel)",1723,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 47",Samstag,Verkauft,"Nicole Goslar (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 47",Sonntag,Verkauft,"Nicole Goslar (Privat_troedel)",1723,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 45",Samstag,Verkauft,"Emira Krasnic (Privat_anlieger)",1487,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 45",Sonntag,Frei,"Emira Krasnic (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 43",Samstag,Verkauft,"Emira Krasnic (Privat_anlieger)",1487,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 43",Sonntag,Frei,"Emira Krasnic (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 41",Samstag,Verkauft,"Annika Böhm (Privat_troedel)",1699,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 41",Sonntag,Verkauft,"Annika Böhm (Privat_troedel)",1545,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 39",Samstag,Verkauft,"Annika Böhm (Privat_troedel)",1699,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 39",Sonntag,Verkauft,"Annika Böhm (Privat_troedel)",1545,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 35",Samstag,Verkauft,"Tanja Bültmann (Privat_troedel)",1876,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 35",Sonntag,Verkauft,"Tanja Bültmann (Privat_troedel)",1740,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 33",Samstag,Verkauft,"Maike Hesse (Privat_troedel)",1801,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 33",Sonntag,Verkauft,"Maike Hesse (Privat_troedel)",1740,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 31",Samstag,Verkauft,"Julia Simon (Privat_troedel)",1727,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 31",Sonntag,Verkauft,"Julia Simon (Privat_troedel)",1740,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 29",Samstag,Verkauft,"Julia Simon (Privat_troedel)",1727,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 29",Sonntag,Verkauft,"Julia Simon (Privat_troedel)",1740,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 27",Samstag,Verkauft,"Julia Simon (Privat_troedel)",1727,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 27",Sonntag,Verkauft,"Julia Simon (Privat_troedel)",1740,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 23",Samstag,Verkauft,"Franziska Jungmann (Privat_troedel)",1777,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 23",Sonntag,Verkauft,"Franziska Jungmann (Privat_troedel)",1777,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 21",Samstag,Verkauft,"Natalia Biller (Privat_troedel)",1630,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 21",Sonntag,Verkauft,"Natalia Biller (Privat_troedel)",1707,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 19",Samstag,Verkauft,"Natalia Biller (Privat_troedel)",1630,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 19",Sonntag,Verkauft,"Natalia Biller (Privat_troedel)",1707,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 17",Samstag,Verkauft,"Natalia Biller (Privat_troedel)",1630,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 17",Sonntag,Frei,"Natalia Biller (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 15",Samstag,Verkauft,"Maria Mannefeld (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 15",Sonntag,Frei,"Maria Mannefeld (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 13",Samstag,Verkauft,"Vedat Karaca (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 13",Sonntag,Verkauft,"Vedat Karaca (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 11",Samstag,Verkauft,"Vedat Karaca (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 11",Sonntag,Verkauft,"Vedat Karaca (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 9",Samstag,Verkauft,"Vedat Karaca (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 9",Sonntag,Verkauft,"Vedat Karaca (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 7",Samstag,Verkauft,"Anne Walpuski (Privat_troedel)",1745,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dreesstraße 7",Sonntag,Frei,"Anne Walpuski (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 3",Samstag,Verkauft,"Jürgen Beuning (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dreesstraße 3",Sonntag,Frei,"Jürgen Beuning (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 8",Samstag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 8",Sonntag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 6",Samstag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 6",Sonntag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 4",Samstag,"Reserviert (Admin)","Udo  Träbert (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 4",Sonntag,"Reserviert (Admin)","Udo  Träbert (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 2",Samstag,"Reserviert (Admin)","Udo  Träbert (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 2",Sonntag,"Reserviert (Admin)","Udo  Träbert (Gewerblich)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 119",Samstag,Verkauft,"Jürgen Rotte (Gewerblich)",1848,150€,4m,m,Ja,Nein,Nein,Nein,,,,Bezahlt
+"Dechaneistraße 119",Sonntag,Verkauft,"Jürgen Rotte (Gewerblich)",1848,150€,4m,m,Ja,Nein,Nein,Nein,,,,Bezahlt
+"Dechaneistraße 117",Samstag,Verkauft,"Petra Dieckmann (Privat_troedel)",1706,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 117",Sonntag,Verkauft,"Petra Dieckmann (Privat_troedel)",1883,15€,3m,"0,6m",,,,,,,"Hallo, ist es möglich auf der Rasenfläche hinter dem Stand unseren Anhänger zu stellen?
+
+Ab wann ist der Stand Aufbau am Sonntag möglich?
+
+Vielen Dank für kurze Info. S.Dammann",Bezahlt
+"Dechaneistraße 115",Samstag,Verkauft,"Petra Dieckmann (Privat_troedel)",1706,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 115",Sonntag,Frei,"Petra Dieckmann (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 113",Samstag,Verkauft,"Andrea Altefrohne (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 113",Sonntag,Frei,"Andrea Altefrohne (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 111",Samstag,Verkauft,"Andrea Altefrohne (Privat_troedel)",1669,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 111",Sonntag,Frei,"Andrea Altefrohne (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 109",Samstag,Verkauft,"Andreas Fabisch (Privat_anlieger)",1555,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 109",Sonntag,Frei,"Andreas Fabisch (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 107",Samstag,Verkauft,"Andreas Fabisch (Privat_anlieger)",1555,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 107",Sonntag,Verkauft,"Andreas Fabisch (Privat_anlieger)",1555,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 105",Samstag,Verkauft,"Andreas Fabisch (Gewerblich)",1852,50€,1.5m,"0,60m",Nein,Nein,Nein,Nein,,Glühwein,,Bezahlt
+"Dechaneistraße 105",Sonntag,Verkauft,"Andreas Fabisch (Gewerblich)",1852,50€,1.5m,"0,60m",Nein,Nein,Nein,Nein,,Glühwein,,Bezahlt
+"Dechaneistraße 103",Samstag,Verkauft,"Andreas Fabisch (Privat_anlieger)",1555,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 103",Sonntag,Verkauft,"Andreas Fabisch (Privat_anlieger)",1555,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 101",Samstag,Verkauft,"Sylvia Korte (Privat_anlieger)",1760,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 101",Sonntag,Frei,"Sylvia Korte (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 99",Samstag,Verkauft,"Martina Tegelkämper (Privat_anlieger)",1455,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 99",Sonntag,Verkauft,"Martina Tegelkämper (Privat_anlieger)",1455,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 97",Samstag,Verkauft,"Ute Weismüller (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 97",Sonntag,Frei,"Ute Weismüller (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 95",Samstag,Verkauft,"Jana Giesbrecht (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 95",Sonntag,Frei,"Jana Giesbrecht (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 93",Samstag,Verkauft,"Jana Giesbrecht (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 93",Sonntag,Frei,"Jana Giesbrecht (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 91",Samstag,Verkauft,"Tatiana Mantler (Privat_anlieger)",1472,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 91",Sonntag,Verkauft,"Tatiana Mantler (Privat_anlieger)",1759,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 89",Samstag,Verkauft,"Tatiana Mantler (Privat_anlieger)",1470,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 89",Sonntag,Verkauft,"Tatiana Mantler (Privat_anlieger)",1759,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 87",Samstag,Verkauft,"Kerstin Krumkamp (Privat_troedel)",1667,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 87",Sonntag,Verkauft,"Kerstin Krumkamp (Privat_troedel)",1759,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 85",Samstag,Verkauft,"Kerstin Krumkamp (Privat_troedel)",1666,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 85",Sonntag,Verkauft,"Kerstin Krumkamp (Privat_troedel)",1759,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 83",Samstag,Verkauft,"Ingo Bergener (Privat_troedel)",1657,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 83",Sonntag,Verkauft,"Ingo Bergener (Privat_troedel)",1657,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 81",Samstag,Verkauft,"Ingo Bergener (Privat_troedel)",1657,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 81",Sonntag,Verkauft,"Ingo Bergener (Privat_troedel)",1657,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 79",Samstag,Verkauft,"Kerstin Krumkamp (Privat_troedel)",1656,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 79",Sonntag,Frei,"Kerstin Krumkamp (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 77",Samstag,Verkauft,"Ina Neufeld (Privat_troedel)",1922,30€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Dechaneistraße 77",Sonntag,Verkauft,"Ina Neufeld (Privat_troedel)",1922,30€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Dechaneistraße 75",Samstag,Verkauft,"Kerstin Krumkamp (Privat_troedel)",1663,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 75",Sonntag,Frei,"Kerstin Krumkamp (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 73",Samstag,Verkauft,"Ursula Holtewert (Privat_anlieger)",1584,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 73",Sonntag,Verkauft,"Ursula Holtewert (Privat_anlieger)",1713,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 71",Samstag,Verkauft,"Ursula Holtewert (Privat_anlieger)",1584,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 71",Sonntag,Verkauft,"Ursula Holtewert (Privat_anlieger)",1713,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 69",Samstag,Verkauft,"Romina Meininghaus (Privat_troedel)",1804,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 69",Sonntag,Verkauft,"Romina Meininghaus (Privat_troedel)",1713,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 63",Samstag,Verkauft,"Christiane Beckmann (Privat_anlieger)",1597,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 63",Sonntag,Frei,"Christiane Beckmann (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 61",Samstag,Verkauft,"Tina Blüthner (Privat_troedel)",1929,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 61",Sonntag,Verkauft,"Tina Blüthner (Privat_troedel)",1929,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 59",Samstag,Verkauft,"Tanja Steps (Privat_troedel)",1782,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 59",Sonntag,Frei,"Tanja Steps (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 57",Samstag,Verkauft,"Tanja Steps (Privat_troedel)",1782,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 57",Sonntag,Frei,"Tanja Steps (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 55",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 55",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 53",Samstag,Verkauft,"Monika Lucht (Privat_anlieger)",1563,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 53",Sonntag,Verkauft,"Monika Lucht (Privat_anlieger)",1563,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 51",Samstag,Verkauft,"Monika Lucht (Privat_anlieger)",1563,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 51",Sonntag,Verkauft,"Monika Lucht (Privat_anlieger)",1563,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 47",Samstag,Verkauft,"Maria Holtrup-Röer (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 47",Sonntag,Verkauft,"Maria Holtrup-Röer (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 45",Samstag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1574,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 45",Sonntag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1792,15€,3m,"0,6m",,,,,,,"Die beiden Standplätze sollen nebeneinander sein.","Zahlung ausstehend"
+"Dechaneistraße 43",Samstag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1488,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 43",Sonntag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1792,15€,3m,"0,6m",,,,,,,"Die beiden Standplätze sollen nebeneinander sein.","Zahlung ausstehend"
+"Dechaneistraße 41",Samstag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1488,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 41",Sonntag,Frei,"Sebastian Niemerg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 39",Samstag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1488,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 39",Sonntag,Frei,"Sebastian Niemerg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 37",Samstag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1574,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 37",Sonntag,Frei,"Sebastian Niemerg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 35",Samstag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1574,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 35",Sonntag,Frei,"Sebastian Niemerg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 33",Samstag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1574,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 33",Sonntag,Frei,"Sebastian Niemerg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 31",Samstag,Verkauft,"Sebastian Niemerg (Privat_anlieger)",1574,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Dechaneistraße 31",Sonntag,Frei,"Sebastian Niemerg (Privat_anlieger)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 29",Samstag,Angefragt,"Adrian Deisting (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 29",Sonntag,Angefragt,"Adrian Deisting (Mitglieder)",-,-,-,-,-,-,-,-,-,-,-,-
+"Dechaneistraße 11",Samstag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 11",Sonntag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 7",Samstag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 7",Sonntag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 5",Samstag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 5",Sonntag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 3",Samstag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße 3",Sonntag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße  1",Samstag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Dechaneistraße  1",Sonntag,Verkauft,"Silke Niemerg (Verein)",1859,33.33€,3m,m,Ja,Ja,Nein,Ja,,,"Hallo , so ganz stimmt das nicht mit der Reservierung . Ist teilweise doppelt. Hab das Angebot erstmal angenommen.
+Damit wir den Standbereich beibehalten können.
+Gruß Ecky",Bezahlt
+"Baumstraße 12",Samstag,Verkauft,"Brigitte Martens (Privat_troedel)",1898,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 12",Sonntag,Frei,"Brigitte Martens (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 10",Samstag,Verkauft,"Brigitte Martens (Privat_troedel)",1898,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 10",Sonntag,Frei,"Brigitte Martens (Privat_troedel)",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 8",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 8",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 6",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 6",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 4",Samstag,Verkauft,"Sandra Uchtmann (Privat_troedel)",1747,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 4",Sonntag,Verkauft,"Sandra Uchtmann (Privat_troedel)",1747,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 2",Samstag,Verkauft,"Sandra Uchtmann (Privat_troedel)",1747,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 2",Sonntag,Verkauft,"Sandra Uchtmann (Privat_troedel)",1747,30€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 13",Samstag,Verkauft,"Olga Pawlak (Privat_troedel)",1660,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 13",Sonntag,Verkauft,"Olga Pawlak (Privat_troedel)",1750,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 11",Samstag,Verkauft,"Olga Pawlak (Privat_troedel)",1660,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 11",Sonntag,Verkauft,"Olga Pawlak (Privat_troedel)",1750,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 9",Samstag,Verkauft,"Olga Pawlak (Privat_troedel)",1660,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße 9",Sonntag,Verkauft,"Olga Pawlak (Privat_troedel)",1750,15€,3m,"0,6m",,,,,,,,Bezahlt
+"Baumstraße  3",Samstag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße  3",Sonntag,Frei,"Kein Kunde",-,-,-,-,-,-,-,-,-,-,-,-
+"Baumstraße 1",Samstag,Verkauft,"Iveta Rudane (Privat_troedel)",1930,30€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"
+"Baumstraße 1",Sonntag,Verkauft,"Iveta Rudane (Privat_troedel)",1930,30€,3m,"0,6m",,,,,,,,"Zahlung ausstehend"

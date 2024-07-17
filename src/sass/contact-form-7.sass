@@ -1,0 +1,88 @@
+.bookingport_dashboard
+  .wpcf7
+    form
+      max-width: 1000px
+      padding: 20px
+      border: 1px solid #999
+      border-radius: 20px
+      margin-bottom: 50px
+      height: max-content
+      overflow: hidden
+      @media screen and (min-width: 1000px)
+        margin-top: 35px
+
+      .wpcf7-response-output
+        border-color: #fff !important
+        padding: 20px !important
+        border-radius: 20px !important
+
+      h4
+        margin-top: 0
+
+      p
+        label
+          display: flex
+          flex-direction: column
+          gap: 5px
+          color: #555555
+          margin-bottom: 5px
+
+        input[type="text"], textarea
+          width: 100%
+          padding: 18px 24px
+          font-size: 14px
+          color: #707070
+          background: #FFFFFF
+          font-family: $font
+          border: none
+          border-radius: 28px
+
+        textarea
+          border: 1px solid #555
+          border-radius: 28px
+
+      input[type="file"]
+        margin: 20px 0
+
+      input[type="submit"]
+        color: #fff !important
+        font-size: 16px
+        background: #555
+        border: 1px solid #555
+        padding: 14px 26px
+        width: max-content
+        text-align: center
+        cursor: pointer
+        border-radius: 40px
+        display: inline-block
+
+        &:hover
+          @media screen and (min-width: 1300px)
+            color: #555 !important
+            background: #FFFFFF
+
+      .trigger-contact-form
+        color: #fff !important
+        width: max-content
+        font-size: 16px
+        background: #555
+        border: 1px solid #555
+        padding: 14px 26px
+        text-align: center
+        cursor: pointer
+        border-radius: 40px
+
+        &.active
+          color: #555!important
+          background: #FFFFFF
+
+        p
+          margin: 0
+
+      .contact-form-content
+        opacity: 0
+        max-height: 0
+
+        &.active
+          opacity: 1
+          max-height: 1000px

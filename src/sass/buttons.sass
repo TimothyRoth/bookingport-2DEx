@@ -1,0 +1,43 @@
+/* Button Template File */
+
+.btn-primary, .btn-tertiary
+  color: #fff !important
+  font-size: 16px
+  background: linear-gradient(118deg, #D70000, #770101)
+  padding: 14px 26px
+  width: max-content
+  text-align: center
+  cursor: pointer
+  border-radius: 40px
+  border: none
+  display: inline-block
+
+  &:hover
+    @media screen and (min-width: 1300px)
+      background: linear-gradient(118deg, #770101, #D70000)
+
+.btn-secondary
+  color: #555 !important
+  display: inline-block !important
+  font-size: 16px !important
+  background: transparent !important
+  border: 1px solid #999!important
+  padding: 14px 26px !important
+  width: max-content !important
+  font-weight: 500 !important
+  border-radius: 40px !important
+  text-align: center !important
+  cursor: pointer !important
+
+  &:hover
+    @media screen and (min-width: 1300px)
+      color: #fff !important
+      background: #999 !important
+
+.button-row
+  display: flex
+  flex-wrap: wrap
+  gap: 30px
+  margin: 40px 0
+
+

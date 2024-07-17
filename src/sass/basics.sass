@@ -1,0 +1,326 @@
+*
+  -webkit-tap-highlight-color: transparent
+  box-sizing: border-box
+  scroll-behavior: smooth
+  transition: .3s ease-in-out
+
+body
+  margin: 0
+  padding: 0
+  height: 100vh
+  font-size: 16px
+  font-family: $font
+  display: flex
+  flex-direction: column
+  color: #555555
+  background: #EBEBEB
+
+.wrapper
+  max-width: 1350px
+  padding: 0 35px
+  position: relative
+  margin: 0 auto
+
+h1, h2, h3
+  text-transform: uppercase
+  font-size: 25px
+
+input, textarea
+  &:focus
+    outline: none
+
+  &::placeholder
+    color: inherit
+
+label, input
+  cursor: pointer
+
+input#not-filled
+  border: 2px solid red !important
+
+.invoice-pdf
+  @media screen and (min-width: 700px)
+    gap: 5px !important
+    position: absolute
+    bottom: 40px
+    right: 20px
+
+  a
+    text-decoration: underline
+    cursor: pointer
+
+.page-headline
+  font-size: 30px
+  color: #555555
+  margin-top: 50px
+  @media screen and (min-width: 900px)
+    font-size: 40px
+
+a
+  text-decoration: none
+
+  &:hover, &:visited, &:link, &:active
+    color: inherit
+
+.slide-out
+  transform: translateX(-100%)
+  @media screen and (min-width: 700px)
+    transform: translateX(0)
+
+.disabled
+  pointer-events: none
+
+.faq-icon
+  position: fixed
+  right: 20px
+  top: 90px
+  width: 50px
+  height: 50px
+  display: flex
+  justify-content: center
+  align-items: center
+  border-radius: 100%
+  background: #fff
+  z-index: 1
+  box-shadow: 0 3px 6px #00000029
+
+  img
+    width: 50%
+    height: 50%
+
+.object-info-text
+  color: #555
+  font-weight: 600
+
+  p
+    margin-bottom: 5px
+
+  a
+    text-decoration: underline
+
+.stand-timer-wrapper
+  margin: 20px 0
+  color: #555555
+  max-width: max-content
+  font-weight: 500
+  display: flex
+  align-items: center
+  gap: 10px
+
+  img
+    width: 20px
+    height: auto
+
+.select-filter
+  display: flex
+  flex-wrap: wrap
+  align-items: center
+  gap: 10px
+  max-width: 1000px
+
+  label
+    color: #555555
+    font-size: 14px
+    @media screen and (min-width: 900px)
+      font-size: 16px
+
+  select
+    color: #555555
+    flex: 1
+    font-size: 14px
+    padding: 7px 13px
+    border-radius: 9px
+    cursor: pointer
+    border: none
+    background: #EBEBEB
+    @media screen and (min-width: 900px)
+      font-size: 16px
+
+    option
+      background: #EBEBEB
+      cursor: pointer
+
+.user_role_wrapper
+  a
+    border-radius: 20px
+    background: #fff
+    display: flex
+    font-size: 14px
+    margin: 20px 0
+    padding: 10px
+    width: max-content
+    color: #ad5e6a
+    top: 135px
+    position: fixed
+    font-weight: 400
+    z-index: 1
+    right: 20px
+    gap: 10px
+    box-shadow: 0 3px 6px #00000029
+
+    img
+      width: 15px
+      height: auto
+
+    p
+      margin: 0
+
+.search-filter
+  position: relative
+  margin: 35px 0
+  max-width: 1000px
+  border: 1px solid #999
+  border-radius: 28px
+
+  &:after
+    position: absolute
+    right: -1px
+    top: -1px
+    content: ""
+    background: url('/assets/images/icons/search.svg') no-repeat, #555
+    background-size: 20px 20px
+    background-position: center
+    width: 45px
+    height: 45px
+    border-top-right-radius: 28px
+    border-bottom-right-radius: 28px
+    @media screen and (min-width: 700px)
+      width: 48px
+      height: 48px
+
+  input[type="text"]
+    width: 100%
+    padding: 12px 24px
+    font-size: 14px
+    color: #555555
+    background: #FFFFFF
+    font-family: $font
+    border: none
+    border-radius: 28px
+    @media screen and (min-width: 700px)
+      font-size: 16px
+
+.prefilled-input
+  pointer-events: none
+  color: #555
+  background: #ebebeb !important
+
+.error-messages
+  padding: 20px
+  border: 2px solid red
+  max-width: 1000px
+  margin-top: 50px
+
+.modal
+  position: fixed
+  opacity: 0
+  padding: 20px
+  z-index: -1
+  background: rgba(0, 0, 0, .3)
+  left: 0
+  top: 0
+  height: 100%
+  width: 100%
+
+  &.active
+    opacity: 1
+    z-index: 20
+
+    .inner-modal
+      top: 50%
+      transform: translate(-50%, -50%)
+
+  .inner-modal
+    background: white
+    padding: 20px
+    border-radius: 20px
+    position: absolute
+    top: 0
+    left: 50%
+    transform: translateX(-50%)
+    width: calc(100% - 40px)
+    max-width: 500px
+
+    textarea
+      font-size: 16px
+      border: none
+      width: 100%
+      font-family: $font
+      color: #555
+
+    h3
+      font-size: 18px
+      text-transform: unset
+      @media (min-width: 900px)
+        font-size: 22px
+
+  .button-row
+    gap: 15px
+
+.fixed
+  position: fixed
+
+.pointer
+  cursor: pointer
+
+.block
+  display: block !important
+
+.hide
+  display: none !important
+
+.flex
+  display: flex !important
+
+
+/* Define image sizes for the order meta items globally */
+
+.row.electricity
+  display: flex
+  gap: 10px
+  align-items: center
+  img
+    width: 20px!important
+    height: auto!important
+
+.row.water
+  display: flex
+  gap: 10px
+  align-items: center
+  img
+    width: 17px!important
+    height: auto!important
+
+.row.food
+  display: flex
+  gap: 10px
+  align-items: center
+  img
+    width: 17px!important
+    height: auto!important
+
+.row.drinks
+  display: flex
+  gap: 10px
+  align-items: center
+  img
+    width: 16px!important
+    height: auto!important
+
+.row.ride
+  display: flex
+  gap: 10px
+  align-items: center
+  img
+    width: 20px!important
+    height: auto!important
+
+.row.sortiment
+  display: flex
+  gap: 10px
+  align-items: center
+  img
+    width: 20px!important
+    height: auto!important
+
+
